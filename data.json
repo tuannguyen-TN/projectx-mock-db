@@ -4,348 +4,348 @@
       "id": "rec351LZaulFQtA7L",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "Co-founder",
+        "title": "Co-founder",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843910/projectx/mentors/Buck_Phan.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Buck Phan",
-        "LinkedIn": "https://www.linkedin.com/in/buckphan/",
-        "Company ": "GoHub"
+        "role": "Mentor\n",
+        "name": "Buck Phan",
+        "linkedIn": "https://www.linkedin.com/in/buckphan/",
+        "company": "GoHub"
       }
     },
     {
       "id": "rec4509bLA4FtAa3x",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "Product Designer II",
+        "title": "Product Designer II",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843912/projectx/mentors/Tien_Dao.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Tien Dao",
-        "LinkedIn": "https://www.linkedin.com/in/tiendt/",
-        "Company ": "Microsoft"
+        "role": "Mentor\n",
+        "name": "Tien Dao",
+        "linkedIn": "https://www.linkedin.com/in/tiendt/",
+        "company": "Microsoft"
       }
     },
     {
       "id": "rec5CfC9D9UGEvLKA",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Data Consultant Vacationer",
+        "title": "Data Consultant Vacationer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843914/projectx/mentors/Long_Vu.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Long Vu",
-        "LinkedIn": "https://www.linkedin.com/in/thanhlongvu25/",
-        "Company ": "PWC"
+        "role": "Mentor\n",
+        "name": "Long Vu",
+        "linkedIn": "https://www.linkedin.com/in/thanhlongvu25/",
+        "company": "PWC"
       }
     },
     {
       "id": "recBuTAGWYemLd8e5",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Software Engineer",
+        "title": "Software Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843915/projectx/mentors/Quang_Nguyen.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Quang Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/quang1401/",
-        "Company ": "Microsoft"
+        "role": "Mentor\n",
+        "name": "Quang Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/quang1401/",
+        "company": "Microsoft"
       }
     },
     {
       "id": "recHQCpSyYqbp5grX",
       "createdTime": "2024-03-30T01:47:33.000Z",
       "fields": {
-        "Title": "Founder",
+        "title": "Founder",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843916/projectx/mentors/Tram_Le.jpeg.png",
-        "Project X Title": "Marketing Advisor",
-        "Name": "Tram Le",
-        "LinkedIn": "https://www.linkedin.com/in/tramle185/",
-        "Company ": "Edtronaut"
+        "role": "Marketing Advisor",
+        "name": "Tram Le",
+        "linkedIn": "https://www.linkedin.com/in/tramle185/",
+        "company": "Edtronaut"
       }
     },
     {
       "id": "recIAEdkDS8DjL60Q",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "Software Engineer",
+        "title": "Software Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843917/projectx/mentors/David_Vu.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "David Vu",
-        "LinkedIn": "https://www.linkedin.com/in/david-vu-470333133/",
-        "Company ": "Meta"
+        "role": "Mentor\n",
+        "name": "David Vu",
+        "linkedIn": "https://www.linkedin.com/in/david-vu-470333133/",
+        "company": "Meta"
       }
     },
     {
       "id": "recKqKfj7bGWty94n",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "Senior Product Manager",
+        "title": "Senior Product Manager",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843918/projectx/mentors/Van_Ha.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Van Ha",
-        "LinkedIn": "https://www.linkedin.com/in/van-ha-bb895945/",
-        "Company ": "Amazon"
+        "role": "Mentor\n",
+        "name": "Van Ha",
+        "linkedIn": "https://www.linkedin.com/in/van-ha-bb895945/",
+        "company": "Amazon"
       }
     },
     {
       "id": "recLfPae0QG0fDy75",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Senior Software Engineer",
+        "title": "Senior Software Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843920/projectx/mentors/Joseph_Nguyen.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Joseph Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/joseph-nguyen-419117129/",
-        "Company ": "Roblox"
+        "role": "Mentor\n",
+        "name": "Joseph Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/joseph-nguyen-419117129/",
+        "company": "Roblox"
       }
     },
     {
       "id": "recMMBJ73PeKeuAHj",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "Staff Data Scientist",
+        "title": "Staff Data Scientist",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843922/projectx/mentors/Tuan_Doan_Nguyen.jpeg.png",
-        "Project X Title": "Mentor\n",
-        "Name": "Tuan Doan Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/tuan-nguyen-doan/",
-        "Company ": "Quora"
+        "role": "Mentor\n",
+        "name": "Tuan Doan Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/tuan-nguyen-doan/",
+        "company": "Quora"
       }
     },
     {
       "id": "recNY68tC33BkRpyl",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Software Engineer",
+        "title": "Software Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843923/projectx/mentors/Jackie_Trang.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Jackie Trang",
-        "LinkedIn": "https://www.linkedin.com/in/jackie-nguyen-893011131/",
-        "Company ": "Meta"
+        "role": "Mentor\n",
+        "name": "Jackie Trang",
+        "linkedIn": "https://www.linkedin.com/in/jackie-nguyen-893011131/",
+        "company": "Meta"
       }
     },
     {
       "id": "recNlHzfS2fpnzBRc",
       "createdTime": "2024-03-24T22:24:09.000Z",
       "fields": {
-        "Title": "Software Engineer",
+        "title": "Software Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843924/projectx/mentors/Clarke_Tu_Nguyen.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Clarke (Tu) Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/clarke-tu-nguyen/",
-        "Company ": "Google"
+        "role": "Mentor\n",
+        "name": "Clarke (Tu) Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/clarke-tu-nguyen/",
+        "company": "Google"
       }
     },
     {
       "id": "recRRXLMij4AeXJt8",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Software Engineer",
+        "title": "Software Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843926/projectx/mentors/Thang_Nguyen.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Thang Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/thangng/",
-        "Company ": "Meta"
+        "role": "Mentor\n",
+        "name": "Thang Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/thangng/",
+        "company": "Meta"
       }
     },
     {
       "id": "recRlVsQcTB6sQazB",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Co-founder, COO",
+        "title": "Co-founder, COO",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843928/projectx/mentors/Luc_Nguyen.jpeg.png",
-        "Project X Title": "Executive Advisor",
-        "Name": "Luc Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/nguyen-luc/",
-        "Company ": "WATA"
+        "role": "Executive Advisor",
+        "name": "Luc Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/nguyen-luc/",
+        "company": "WATA"
       }
     },
     {
       "id": "recS8DHzSVkZFy5MM",
       "createdTime": "2024-03-24T22:27:27.000Z",
       "fields": {
-        "Title": "Principal AI Research Scientist",
+        "title": "Principal AI Research Scientist",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843929/projectx/mentors/Hugh_Nguyen.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Hugh Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/hieuhughnguyen/",
-        "Company ": "United Health Group"
+        "role": "Mentor\n",
+        "name": "Hugh Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/hieuhughnguyen/",
+        "company": "United Health Group"
       }
     },
     {
       "id": "recTC5cTvRgzRlE8J",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Software Engineer",
+        "title": "Software Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843939/projectx/mentors/Nina_Le.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Nina Le",
-        "LinkedIn": "https://www.linkedin.com/in/ninale81/",
-        "Company ": "LinkedIn"
+        "role": "Mentor\n",
+        "name": "Nina Le",
+        "linkedIn": "https://www.linkedin.com/in/ninale81/",
+        "company": "LinkedIn"
       }
     },
     {
       "id": "recTsmorE3OIz82yL",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Head of Business Development & Partnership",
+        "title": "Head of Business Development & Partnership",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843941/projectx/mentors/Peter_Vo.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Peter Vo",
-        "LinkedIn": "https://www.linkedin.com/in/vp-tan/",
-        "Company ": "The ParentInc"
+        "role": "Mentor\n",
+        "name": "Peter Vo",
+        "linkedIn": "https://www.linkedin.com/in/vp-tan/",
+        "company": "The ParentInc"
       }
     },
     {
       "id": "recZDGwnNFgsLCdXx",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "Software Engineer",
+        "title": "Software Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843945/projectx/mentors/Long_Vu_1.jpeg.png",
-        "Project X Title": "Mentor\n",
-        "Name": "Long Vu",
-        "LinkedIn": "https://www.linkedin.com/in/vu-long/",
-        "Company ": "Shopee"
+        "role": "Mentor\n",
+        "name": "Long Vu",
+        "linkedIn": "https://www.linkedin.com/in/vu-long/",
+        "company": "Shopee"
       }
     },
     {
       "id": "recaUJzKSbRZocxhs",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Software Engineer",
+        "title": "Software Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843946/projectx/mentors/Quang_Anh_Bean_Nguyen.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Quang Anh (Bean) Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/aqnguyen141/",
-        "Company ": "Google"
+        "role": "Mentor\n",
+        "name": "Quang Anh (Bean) Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/aqnguyen141/",
+        "company": "Google"
       }
     },
     {
       "id": "rece5yCF48TKLcdF2",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "UX Team Leader",
+        "title": "UX Team Leader",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843947/projectx/mentors/Phuong_Anh_Nguyen.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Phuong Anh Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/phuong-anh-nguyen-1460a8135/",
-        "Company ": "FPT Vietnam"
+        "role": "Mentor\n",
+        "name": "Phuong Anh Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/phuong-anh-nguyen-1460a8135/",
+        "company": "FPT Vietnam"
       }
     },
     {
       "id": "recfwUitophHXIxCg",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Product Manager",
+        "title": "Product Manager",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843948/projectx/mentors/Trung_Do.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Trung Do",
-        "LinkedIn": "https://www.linkedin.com/in/trungdocoaching/",
-        "Company ": "Heinenken"
+        "role": "Mentor\n",
+        "name": "Trung Do",
+        "linkedIn": "https://www.linkedin.com/in/trungdocoaching/",
+        "company": "Heinenken"
       }
     },
     {
       "id": "rechvanPN8TaOXN8Y",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Software Engineer",
+        "title": "Software Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843948/projectx/mentors/Elaine_Do.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Elaine Do",
-        "LinkedIn": "https://www.linkedin.com/in/elainedo015/",
-        "Company ": "Qualtrics"
+        "role": "Mentor\n",
+        "name": "Elaine Do",
+        "linkedIn": "https://www.linkedin.com/in/elainedo015/",
+        "company": "Qualtrics"
       }
     },
     {
       "id": "reci2PGpTVjaMaYUO",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Business Intelligence Engineer",
+        "title": "Business Intelligence Engineer",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843951/projectx/mentors/Ngoc_Dinh.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Ngoc Dinh",
-        "LinkedIn": "https://www.linkedin.com/in/ngoc-dinh-a7a2a561/",
-        "Company ": "Attune"
+        "role": "Mentor\n",
+        "name": "Ngoc Dinh",
+        "linkedIn": "https://www.linkedin.com/in/ngoc-dinh-a7a2a561/",
+        "company": "Attune"
       }
     },
     {
       "id": "reciwumMBY6bX38BY",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "Managing Director, Distributed Ledger Technology",
+        "title": "Managing Director, Distributed Ledger Technology",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843952/projectx/mentors/Bien_Ngo.jpeg.png",
-        "Project X Title": "Mentor\n",
-        "Name": "Bien Ngo",
-        "LinkedIn": "https://www.linkedin.com/in/bien-d-ngo/",
-        "Company ": "iCapital\n"
+        "role": "Mentor\n",
+        "name": "Bien Ngo",
+        "linkedIn": "https://www.linkedin.com/in/bien-d-ngo/",
+        "company": "iCapital\n"
       }
     },
     {
       "id": "recoxbC6LFH59VRbn",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "PhD Intern",
+        "title": "PhD Intern",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843958/projectx/mentors/Hy_Truong_Son.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Hy Truong Son",
-        "LinkedIn": "https://www.linkedin.com/in/truong-son-hy-4a9185b6/",
-        "Company ": "Meta"
+        "role": "Mentor\n",
+        "name": "Hy Truong Son",
+        "linkedIn": "https://www.linkedin.com/in/truong-son-hy-4a9185b6/",
+        "company": "Meta"
       }
     },
     {
       "id": "recrVxFpttY9JO9Rv",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Founder, CEO ",
+        "title": "Founder, CEO ",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843959/projectx/mentors/Johnny_Le.jpeg.jpg",
-        "Project X Title": "Executive Advisor",
-        "Name": "Johnny Le ",
-        "LinkedIn": "https://www.linkedin.com/in/johnnylxa/",
-        "Company ": "DigiEx Group"
+        "role": "Executive Advisor",
+        "name": "Johnny Le ",
+        "linkedIn": "https://www.linkedin.com/in/johnnylxa/",
+        "company": "DigiEx Group"
       }
     },
     {
       "id": "recs6GcigpIokMZ3c",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "Software Engineer Intern",
+        "title": "Software Engineer Intern",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843960/projectx/mentors/Scarlet_Nguyen.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Scarlet Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/scarletnguyen/",
-        "Company ": "LinkedIn"
+        "role": "Mentor\n",
+        "name": "Scarlet Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/scarletnguyen/",
+        "company": "LinkedIn"
       }
     },
     {
       "id": "recsX6n1Pfm9MbysB",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "Data Scientist",
+        "title": "Data Scientist",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843967/projectx/mentors/Dr._Hieu_Nguyen.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Dr. Hieu Nguyen",
-        "LinkedIn": "https://www.linkedin.com/in/hieu-nguyen-075935b/",
-        "Company ": "CNA"
+        "role": "Mentor\n",
+        "name": "Dr. Hieu Nguyen",
+        "linkedIn": "https://www.linkedin.com/in/hieu-nguyen-075935b/",
+        "company": "CNA"
       }
     },
     {
       "id": "recyXWOoHCxnD98oz",
       "createdTime": "2024-03-24T22:03:49.000Z",
       "fields": {
-        "Title": "Product Manager",
+        "title": "Product Manager",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843979/projectx/mentors/Hung_Le.jpeg.jpg",
-        "Project X Title": "Mentor\n",
-        "Name": "Hung Le",
-        "LinkedIn": "https://www.linkedin.com/in/hunglethanh/",
-        "Company ": "Cohost AI"
+        "role": "Mentor\n",
+        "name": "Hung Le",
+        "linkedIn": "https://www.linkedin.com/in/hunglethanh/",
+        "company": "Cohost AI"
       }
     },
     {
       "id": "reczOyNCFNl0AMUjo",
       "createdTime": "2024-03-24T22:24:35.000Z",
       "fields": {
-        "Title": "Founder, CEO ",
+        "title": "Founder, CEO ",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712843981/projectx/mentors/Hoang_Minh_Phuong.jpeg.png",
-        "Project X Title": "Mentor\n",
-        "Name": "Hoang Minh Phuong",
-        "LinkedIn": "https://www.linkedin.com/in/hoang-phuong-03612248/",
-        "Company ": "GraphicsMiner"
+        "role": "Mentor\n",
+        "name": "Hoang Minh Phuong",
+        "linkedIn": "https://www.linkedin.com/in/hoang-phuong-03612248/",
+        "company": "GraphicsMiner"
       }
     }
   ],
@@ -354,9 +354,9 @@
       "id": "rec1YhXdteOabCNwO",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Ha Vu",
-        "Project X Title": "Head of Marketing and Design",
-        "LinkedIn": "https://www.linkedin.com/in/ngochavu/",
+        "title": "Head of Marketing and Design",
+        "linkedIn": "https://www.linkedin.com/in/ngochavu/",
+        "name": "Ha Vu",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849588/projectx/core-team/Ha_Vu.jpeg.jpg"
       }
     },
@@ -364,9 +364,9 @@
       "id": "rec8EgJELfJ6DeegE",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Vy Mai",
-        "Project X Title": "Head of Mentorship & Operation",
-        "LinkedIn": "https://www.linkedin.com/in/lanvymai/",
+        "title": "Head of Mentorship & Operation",
+        "linkedIn": "https://www.linkedin.com/in/lanvymai/",
+        "name": "Vy Mai",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849589/projectx/core-team/Vy_Mai.jpeg.jpg"
       }
     },
@@ -374,9 +374,9 @@
       "id": "recAl0eSeuGVcbMfo",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Tuan (Kevin) Le",
-        "Project X Title": "President",
-        "LinkedIn": "https://www.linkedin.com/in/tuan-kevin-le-9809411b8/",
+        "title": "President",
+        "linkedIn": "https://www.linkedin.com/in/tuan-kevin-le-9809411b8/",
+        "name": "Tuan (Kevin) Le",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849593/projectx/core-team/Tuan_Kevin_Le.jpeg.jpg"
       }
     },
@@ -384,9 +384,9 @@
       "id": "recEQxkViTpGeMplH",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Thien (Tony) Nguyen",
-        "Project X Title": "Head of Sponsorship & Partnership",
-        "LinkedIn": "https://www.linkedin.com/in/tony-nguyen-99404a237/",
+        "title": "Head of Sponsorship & Partnership",
+        "linkedIn": "https://www.linkedin.com/in/tony-nguyen-99404a237/",
+        "name": "Thien (Tony) Nguyen",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849594/projectx/core-team/Thien_Tony_Nguyen.jpeg.jpg"
       }
     },
@@ -394,9 +394,9 @@
       "id": "recL4IwSCNyfBiJxu",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Nguyen Nguyen",
-        "Project X Title": "Head of Mentorship & Operation",
-        "LinkedIn": "https://www.linkedin.com/in/nguyenhanhnguyen",
+        "title": "Head of Mentorship & Operation",
+        "linkedIn": "https://www.linkedin.com/in/nguyenhanhnguyen",
+        "name": "Nguyen Nguyen",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849595/projectx/core-team/Nguyen_Nguyen.jpeg.jpg"
       }
     },
@@ -404,8 +404,8 @@
       "id": "recUqdluqIRogWLB3",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Linh Nguyen",
-        "Project X Title": "Head of Marketing and Design",
+        "title": "Head of Marketing and Design",
+        "name": "Linh Nguyen",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849596/projectx/core-team/Linh_Nguyen.jpeg.jpg"
       }
     },
@@ -413,9 +413,9 @@
       "id": "receQPCZGe7Kk8Qdp",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Tuan Nguyen",
-        "Project X Title": "Head of Tech Team ",
-        "LinkedIn": "https://www.linkedin.com/in/tuannguyen-TN/",
+        "title": "Head of Tech Team ",
+        "linkedIn": "https://www.linkedin.com/in/tuannguyen-TN/",
+        "name": "Tuan Nguyen",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849597/projectx/core-team/Tuan_Nguyen.jpeg.jpg"
       }
     },
@@ -423,9 +423,9 @@
       "id": "recrA7dDhw9iQr1z0",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Nhi Dang ",
-        "Project X Title": "President",
-        "LinkedIn": "https://www.linkedin.com/in/nhittdang",
+        "title": "President",
+        "linkedIn": "https://www.linkedin.com/in/nhittdang",
+        "name": "Nhi Dang ",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849598/projectx/core-team/Nhi_Dang.jpeg.jpg"
       }
     },
@@ -433,9 +433,9 @@
       "id": "recrdaPhwMM9nmn8C",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Kelly Tran ",
-        "Project X Title": "Co-founder/Advisor",
-        "LinkedIn": "https://www.linkedin.com/in/kellytranha/",
+        "title": "Co-founder/Advisor",
+        "linkedIn": "https://www.linkedin.com/in/kellytranha/",
+        "name": "Kelly Tran ",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849599/projectx/core-team/Kelly_Tran.jpeg.jpg"
       }
     },
@@ -443,9 +443,9 @@
       "id": "recu8j90EPS6HoMHg",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Truong An Pemi Nguyen ",
-        "Project X Title": "Manager/Advisor",
-        "LinkedIn": "https://www.linkedin.com/in/peminguyen/",
+        "title": "Manager/Advisor",
+        "linkedIn": "https://www.linkedin.com/in/peminguyen/",
+        "name": "Truong An Pemi Nguyen ",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849600/projectx/core-team/Truong_An_Pemi_Nguyen.jpeg.jpg"
       }
     },
@@ -453,9 +453,9 @@
       "id": "recywAre8YaOUcvWy",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
-        "Name": "Long Nguyen",
-        "Project X Title": "Head of Sponsorship & Partnership",
-        "LinkedIn": "https://www.linkedin.com/in/longnguyenbase/",
+        "title": "Head of Sponsorship & Partnership",
+        "linkedIn": "https://www.linkedin.com/in/longnguyenbase/",
+        "name": "Long Nguyen",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849603/projectx/core-team/Long_Nguyen.jpeg.png"
       }
     }
@@ -465,241 +465,250 @@
       "id": "rec3JMZrG1G3NS5vl",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Name": "Vin University",
+        "name": "Vin University",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845572/projectx/partners/Vin_University.jpeg.png",
-        "Partner type": "Partner School"
+        "type": "Partner School",
+        "website": "https://vinuni.edu.vn/"
       }
     },
     {
       "id": "recCDcLai0uSQvSdF",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Name": "LG",
+        "name": "LG",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845573/projectx/partners/LG.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company",
+        "website": "https://www.lg.com/vn"
       }
     },
     {
       "id": "recD6lJ8tmVm7Jvpm",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "https://career.vng.com.vn",
-        "Name": "VNG Corporation",
+        "website": "https://career.vng.com.vn",
+        "name": "VNG Corporation",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845573/projectx/partners/VNG_Corporation.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recFJTI4Scv7k5vyR",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "https://vn.got-it.ai/",
-        "Name": "Got It",
+        "website": "https://vn.got-it.ai/",
+        "name": "Got It",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845574/projectx/partners/Got_It.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recGHYlHqUOei8dAy",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "http://onemount.com",
-        "Name": "OneMount",
+        "website": "http://onemount.com",
+        "name": "OneMount",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845575/projectx/partners/OneMount.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recGYCdsxhClH6RDr",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Name": "VNUK - Institution for Research & Executive Education",
+        "name": "VNUK - Institution for Research & Executive Education",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845575/projectx/partners/VNUK_-_Institution_for_Research_and_Executive_Education.jpeg.png",
-        "Partner type": "Partner School"
+        "type": "Partner School",
+        "website": "https://vnuk.edu.vn/en/about/"
       }
     },
     {
       "id": "recHf5IuDK67xAsXi",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "http://www.homebase.com.vn/",
-        "Name": "Homebase",
+        "website": "http://www.homebase.com.vn/",
+        "name": "Homebase",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845576/projectx/partners/Homebase.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recK9bf4zUZxfREFr",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "https://www.grokking.org/",
-        "Name": "GROKKING VIETNAM",
+        "website": "https://www.grokking.org/",
+        "name": "GROKKING VIETNAM",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845577/projectx/partners/GROKKING_VIETNAM.jpeg.png",
-        "Partner type": "Partner Organization"
+        "type": "Partner Organization"
       }
     },
     {
       "id": "recKnvTcg3QiSkVMC",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "http://www.home24h.net",
-        "Name": "HOME24H",
+        "website": "http://www.home24h.net",
+        "name": "HOME24H",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845578/projectx/partners/HOME24H.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recLI44OuExqVpQQ6",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Name": "FPT University",
+        "name": "FPT University",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845579/projectx/partners/FPT_University.jpeg.png",
-        "Partner type": "Partner School"
+        "type": "Partner School",
+        "website": "https://daihoc.fpt.edu.vn/"
       }
     },
     {
       "id": "recLo6hAdh88GABYe",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Name": "Dai hoc Ngoai Thuong",
+        "name": "Dai hoc Ngoai Thuong",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845580/projectx/partners/Dai_hoc_Ngoai_Thuong.jpeg.png",
-        "Partner type": "Partner School"
+        "type": "Partner School",
+        "website": "https://ftu.edu.vn/"
       }
     },
     {
       "id": "recQOlQttevIh7wg0",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "http://careers.shopee.com/",
-        "Name": "Shopee",
+        "website": "http://careers.shopee.com/",
+        "name": "Shopee",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845580/projectx/partners/Shopee.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recQtkaWaJnTrhkGI",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "http://www.fptsoftware.com",
-        "Name": "FPT Software",
+        "website": "http://www.fptsoftware.com",
+        "name": "FPT Software",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845581/projectx/partners/FPT_Software.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recRV0q5f1bd3rLh2",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "https://careers.chotot.com/",
-        "Name": "Chợ Tốt",
+        "website": "https://careers.chotot.com/",
+        "name": "Chợ Tốt",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845582/projectx/partners/Ch%E1%BB%A3_T%E1%BB%91t.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recSpB4rF9ldU4Izd",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "http://tribee.io/",
-        "Name": "Tribee.io",
+        "website": "http://tribee.io/",
+        "name": "Tribee.io",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845582/projectx/partners/Tribee.io.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recVdHlcqiXvCY9Tk",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Name": "Google Developer Student Club - VNUHCM ",
+        "name": "Google Developer Student Club - VNUHCM ",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845583/projectx/partners/Google_Developer_Student_Club_-_VNUHCM.jpeg.jpg",
-        "Partner type": "Partner School"
+        "type": "Partner School",
+        "website": "https://gdsc.community.dev/vnu-hcm-university-of-science/"
       }
     },
     {
       "id": "recbBk3x2vkUxAQJf",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "http://www.viotgroup.com/",
-        "Name": "VIoT Group",
+        "website": "http://www.viotgroup.com/",
+        "name": "VIoT Group",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845585/projectx/partners/VIoT_Group.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recf3RKbMzvALjW9S",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "https://business.gitiho.com/",
-        "Name": "GITIHO",
+        "website": "https://business.gitiho.com/",
+        "name": "GITIHO",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845587/projectx/partners/GITIHO.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recfEow83rEREwp1A",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "https://www.globalshapers.org/hubs/ho-chi-minh-city-hub",
-        "Name": "Global Shapers Community - HCMC HUB",
+        "website": "https://www.globalshapers.org/hubs/ho-chi-minh-city-hub",
+        "name": "Global Shapers Community - HCMC HUB",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845588/projectx/partners/Global_Shapers_Community_-_HCMC_HUB.jpeg.png",
-        "Partner type": "Partner Organization"
+        "type": "Partner Organization"
       }
     },
     {
       "id": "recjk12s5nzMo0K8U",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "https://incubeetor.com/",
-        "Name": "Bees Group",
+        "website": "https://incubeetor.com/",
+        "name": "Bees Group",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845589/projectx/partners/Bees_Group.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     },
     {
       "id": "recl1Vm4E2wuUxyi7",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Name": "Dai hoc Bach Khoa",
+        "name": "Dai hoc Bach Khoa",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845590/projectx/partners/Dai_hoc_Bach_Khoa.jpeg.png",
-        "Partner type": "Partner School"
+        "type": "Partner School",
+        "website": "https://hust.edu.vn/"
       }
     },
     {
       "id": "recsQcTbK49ejIj5c",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Name": "Entrepreneurship Lab - VinUni",
+        "name": "Entrepreneurship Lab - VinUni",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845591/projectx/partners/Entrepreneurship_Lab_-_VinUni.jpeg.png",
-        "Partner type": "Partner School"
+        "type": "Partner School",
+        "website": "https://vinuni.edu.vn/entrepreneurship-lab/"
       }
     },
     {
       "id": "recunfYZpUBaGLcg8",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "https://vnoi.info",
-        "Name": "VNOI - Vietnam Olympiad in Informatics Community",
+        "website": "https://vnoi.info",
+        "name": "VNOI - Vietnam Olympiad in Informatics Community",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845592/projectx/partners/VNOI_-_Vietnam_Olympiad_in_Informatics_Community.jpeg.png",
-        "Partner type": "Partner Organization"
+        "type": "Partner Organization"
       }
     },
     {
       "id": "recw2xiUexhXj7vAV",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Name": "Vietnam National University Ho Chi Minh City",
+        "name": "Vietnam National University Ho Chi Minh City",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845593/projectx/partners/Vietnam_National_University_Ho_Chi_Minh_City.jpeg.png",
-        "Partner type": "Partner School"
+        "type": "Partner School",
+        "website": "https://vnuhcm.edu.vn/"
       }
     },
     {
       "id": "recyXkui4gYqG81L3",
       "createdTime": "2024-03-24T22:58:10.000Z",
       "fields": {
-        "Website link": "https://infina.vn",
-        "Name": "Infina",
+        "website": "https://infina.vn",
+        "name": "Infina",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845593/projectx/partners/Infina.jpeg.png",
-        "Partner type": "Partner Company"
+        "type": "Partner Company"
       }
     }
   ],
@@ -709,9 +718,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848781/projectx/resources/rec11MvP2jN2A7eqj.jpeg.png",
-        "Title": "[Mentor's Stories] ANH LÊ THANH HƯNG - SỨC KHOẺ LÀ CỘI NGUỒN CỦA CUỘC SỐNG",
-        "Topics": ["Mentors"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/Kj43dx7FAoXA8GxIDPtuddavs3c?from=from_copylink"
+        "title": "[Mentor's Stories] ANH LÊ THANH HƯNG - SỨC KHOẺ LÀ CỘI NGUỒN CỦA CUỘC SỐNG",
+        "topics": ["Mentors"],
+        "content": "Hôm nay, Project X muốn giới thiệu tới các bạn anh Lê Thanh Hưng - một trong những mentor đầu tiên của Project X. Hiện tại anh đang là PM/PO cho AICOVIDVN (Dự án nhận dạng tiếng ho COVID bằng AI) và tiepsuc.vn (kết nôi thiện nguyện), đồng thời anh còn là người có lối sống và làm việc tận hiến hướng tới sức khỏe và đời sống cộng đồng.\n\nAnh đã có hơn 8 năm kinh nghiệm xây dựng cộng đồng cho Google Developers, Facebook Developers, và Product School tại Việt Nam. Anh cũng thường xuyên xuất hiện với tinh thần tiếp sức cho thế hệ trẻ qua việc làm mentor và trainer cho các cuộc thi hackathon của Facebook Developers, Angelhack và Bộ Khoa học và Công nghệ. Với anh ấy, Career Advices, Product Management, Big Data career path, Open source, Networking và community building (tech) không chỉ là những từ ngữ, mà là những trải nghiệm thực sự.\n\nLý do đặc biệt nào đã mang anh quay trở lại với Project X năm nay ạ?\nTiếp xúc nhiều, anh thấy cộng đồng người Việt trẻ rất tiềm năng. Trong thời thế hiện tại, anh muốn đóng góp những kinh nghiệm của anh và hỗ trợ chia sẻ các bạn trẻ với tinh thần “pay it forward”. Anh thấy Project X rất ý nghĩa, vì tinh thần tương trợ này rất khó để tìm được khi bôn ba nước ngoài, nên anh muốn muốn cùng với team Project X có thể lan tỏa và kết nối các bạn trẻ của Việt Nam tại Việt Nam cũng như cộng đồng người Việt trẻ trên toàn cầu.\n\nAnh nghĩ đâu là điểm làm nên sự khác biệt ở các bạn sinh viên Việt Nam ạ?\nỞ các nước phương Tây, sinh viên Việt Nam mình luôn mang lại thiện cảm từ sự cần cù, chăm chỉ và ham học hỏi, sẵn sàng kết nối bạn bè bốn phương. Điểm này rất nổi trội, có lẽ cảm nhận chung này tới từ phương hướng ngoại giao nước mình, nên hầu hết đi đâu cũng được yêu quý.\n\nCó điều gì anh muốn chia sẻ đặc biệt về bản thân không ạ?\nAnh thích chạy bộ, tập thái cực quyền, ngoài ra anh cũng thích đọc sách về IT, Startup lúc rảnh nữa. Anh cũng đang hướng đến hoàn thiện bản thân và cân bằng cuộc sống dựa trên Bánh xe cuộc đời. À, hiện thì anh cũng đang bắt đầu học violin 😛 nên nếu ai giỏi thì cũng giúp đỡ anh nhé."
       }
     },
     {
@@ -719,10 +728,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848782/projectx/resources/rec6PBHRqSK5YmMMY.jpeg.jpg",
-        "Title": "[Workshop] RESUME WORKSHOP - HOÀN THIỆN TỪ NHỮNG BƯỚC ĐẦU TIÊN",
-
-        "Topics": ["Event"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/AxkUdNc8SoT7BTxZlVFuFq8wsSe?from=from_copylink"
+        "title": "[Workshop] RESUME WORKSHOP - HOÀN THIỆN TỪ NHỮNG BƯỚC ĐẦU TIÊN",
+        "topics": ["Event"],
+        "content": "Một khi đã bắt đầu xin việc, câu hỏi có lẽ sẽ khiến các bạn sinh viên nhức nhối nhất là: Làm sao để có thể vượt qua vòng resume? Đúng vậy, resume vẫn luôn là nỗi trăn trở muôn thuở của rất nhiều ứng viên. Mỗi chi tiết không chỉ thể hiện kinh nghiệm học thuật và việc làm mà còn phải tạo ấn tượng ban đầu với nhà tuyển dụng về sự chỉn chu và chuyên nghiệp. Vậy nên, Project X sẽ chính thức mang RESUME WORKSHOP đến cho các bạn của chương trình Fellowship năm nay.\n\n🔸 Thời gian: 10AM VNT 25/02/2024 // 10PM EST 24/02/2024\n👉 Thông qua buổi Workshop, các bạn sẽ học hỏi được vô vàn phương pháp để cá nhân hóa resume, hai trong số đó có thể kể đến như:\n- Định dạng: tối đa 1 trang, thứ tự các phần hợp lý, trình bày chuyên nghiệp (có thể tham khảo các mẫu Latex hoặc Harvard).\n- Nội dung: sử dụng động từ mạnh và các con số để thể hiện đặc điểm và tầm ảnh hưởng của bản thân.\nBuổi chia sẻ sẽ kết hợp giữa lắng nghe lời khuyên từ các mentor và hoạt động nhóm cùng các bạn fellow, vì vậy các bạn chắc chắn sẽ có thể vừa học hỏi kinh nghiệm vừa nhanh chóng cải thiện hồ sơ, sẵn sàng nộp đơn cho các vị trí thực tập ngay.\n\nDưới đây là timeline dự kiến của các workshop tiếp theo:\n- 03/03/2024: Workshop 2: Behavioral Interview - Chinh phục nhà tuyển dụng với những kỹ năng \"mềm\"\n- 10/03/2024: Workshop 3: Technical Interview - \"Cân\" mọi câu hỏi chuyên môn hóc búa\n\nCác bạn lưu ý hãy thường xuyên kiểm tra email để nhận được thông tin chi tiết về thời gian và link tham dự Workshop nhé!"
       }
     },
     {
@@ -730,10 +738,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848783/projectx/resources/rec7V5YoIati3Sajm.jpeg.png",
-        "Title": "[Mentor's Stories] Mentor Hugh Nguyen - Khi đam mê là sự kết hợp giữa AI và Y tế",
-
-        "Topics": ["Mentors"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/F6pidv7dOoJ4d7xezApuxYLas4f?from=from_copylink"
+        "title": "[Mentor's Stories] Mentor Hugh Nguyen - Khi đam mê là sự kết hợp giữa AI và Y tế",
+        "topics": ["Mentors"],
+        "content": "Trong vài năm trở lại đây, sự \"trỗi dậy\" của AI ngày càng có ảnh hưởng rõ rệt lên sự phát triển toàn thế giới. Trong số những ngành nghề chịu sự ảnh hưởng của hình thức công nghệ mới này, Y tế là một trong những lĩnh vực được \"hưởng lợi\" nhiều nhất từ những phát minh đến từ AI.\nHôm nay Project giới thiệu anh Hugh Nguyen - tiến sĩ chuyên ngành Kỹ thuật Y sinh, chuyên về Data Science tại Johns Hopkins, một nhân vật \"đỉnh chóp\" trong dàn mentor tại Project X.\n\nTừng có kinh nghiệm làm việc tại UnitedHealth Group và Apple, anh đã dẫn dắt nhiều dự án nghiên cứu và ứng dụng Generative AI/LLM/NLP vào lĩnh vực y tế như thuật toán ML cho dự đoán phản ứng với các phương pháp điều trị cho bệnh nhân ung thư tuyến tuỵ, AI/ML models cảnh báo tình trạng nguy kịch cho 9 loại bệnh gặp trong phòng cấp cứu, hay dùng AI/ML thu thập \"insight\" về giấc ngủ qua dữ liệu từ Apple Watch,...\nAnh vẫn luôn nuôi dưỡng và phát triển đam mê kết hợp công nghệ và y tế để tạo ra những sản phẩm có ích cho cộng đồng. Hãy cùng Project X tìm hiểu câu chuyện đằng sau sự bền bỉ và thành công này nhé!\n\nXin chào anh Hugh, tụi em rất vui vì anh nhận lời trở thành mentor cho Fellowship Program năm nay. Để bắt đầu, anh có thể chia sẻ lí do anh quyết định lựa chọn lĩnh vực Sức khỏe làm ngách công việc chính của mình không ạ?\nTừ nhỏ, anh đã trải nghiệm qua việc theo cha mẹ vào bệnh viện vì suy thận và suy tim không biết bao lần. Trong 10 năm, anh đã chứng kiến rất nhiều thứ không thể quên được, ở trong phòng cấp cứu, dưới gầm giường bệnh, trên hành lang phòng chờ, ở quầy thu ngân... Không chỉ người bệnh, người thân, mà cả bác sĩ hồi đó cũng gặp gánh nặng vì số lượng bệnh nhân và công nghệ y tế không đủ đáp ứng. Mình chỉ đơn giản là muốn giúp được thật nhiều người bệnh, đỡ gánh nặng thật nhiều cho bác sĩ thông qua công nghệ. Nghĩ lại, nó giống như \"life’s calling\" vậy.\n\nTheo đuổi công nghệ vốn đã cần nhiều sự bền bỉ, chưa kể còn kết hợp với y tế. Sau khi đã đạt được một vài cột mốc đáng nhớ, theo anh, điều gì quan trọng (nhất) ở giai đoạn bắt đầu sự nghiệp?\nKeep an open mind, đừng ngại thử nhiều điều mới. Học hỏi, nói chuyện với nhiều người, anh chị đi trước, lắng nghe câu chuyện của họ, và reflect lại xem mình hợp cái hướng đi đấy đến đâu. Và nếu chưa chắc, đừng ngại thử, vì nhiều khi chỉ thử rồi mới biết cái gì là best cho mình. Tóm lại là, hãy luôn cởi mở và sẵn sàng học hỏi!\nĐừng so sánh bản thân với người khác. Comparison is the killer of joy. Môi con người đều khác, có những hệ qui chiếu, sở thích, core value khác biệt, và chỉ có bạn mới biết mình cần gì và cái gì tốt nhất cho mình thôi. Anh mong mọi người hãy tin tưởng vào bản thân mình:).\nCuối cùng, chăm sóc bản thân mình,về cả tinh thần lẫn thể chất. Với anh, “Sức khỏe là vốn tài sản quý báu nhất\". Mình đã chứng kiến nhiều bạn vì chạy theo công việc, học hành mà ăn ngủ ko khoa học hay bỏ ăn bỏ ngủ, hay bỏ quên về sức khỏe tinh thần, và mình thấy rất xót. Có thể những hậu quả nó không đến ra ngay nhưng những cái lối sống ấy trong thời gian dài sẽ quyết định bệnh tật sau 40 hay 60 tuổi đó. Mình phải khoẻ thì mình mới tìm ra công việc mình thích, gây dựng sự nghiệp, cũng như tận hưởng cuộc sống trọn vẹn nhất, phải không? Nên lời khuyên là tụi em hãy quan tâm và đối xử thật tốt với bản thân nha\n\nHy vọng bài chia sẻ hôm nay đã giúp các bạn có cái nhìn rõ hơn về anh Hiếu và nhận được lời khuyên hữu ích khi bắt đầu sự nghiệp. Hãy cùng đón chờ những thông tin sắp tới của dự án Project X và đăng ký tham gia nhé!"
       }
     },
     {
@@ -741,9 +748,9 @@
       "createdTime": "2024-03-25T00:15:33.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848786/projectx/resources/rec8d5EsTSZvEwhOT.jpeg.jpg",
-        "Title": "[Mentor's Stories] GIỚI THIỆU CỐ VẤN CHIẾN LƯỢC - ANH JOHNNY LE, FOUNDER & CEO TẠI DigiEx Group",
-        "Topics": ["Mentors"],
-        "Content": "https://www.facebook.com/photo/?fbid=442097565152385&set=pb.100080564340561.-2207520000"
+        "title": "[Mentor's Stories] GIỚI THIỆU CỐ VẤN CHIẾN LƯỢC - ANH JOHNNY LE, FOUNDER & CEO TẠI DigiEx Group",
+        "topics": ["Mentors"],
+        "content": "Để dự án không ngừng phát triển và đạt bước tiến mới, bên cạnh sự góp mặt của các mentor xuất sắc cùng những bạn mentee đầy tài năng, không thể không nhắc đến những \"người dẫn đường\".\n\nProject X xin giới thiệu anh Johnny Le, Founder & CEO của công ty DigiEx, một trong những công ty công nghệ trẻ tiên phong trong nhiều lĩnh vực ở Việt Nam như fintech, AI & cybersecurity, sẽ tham gia Project X với vai trò Cố vấn chiến lược (Executive Advisor). Theo đó, anh sẽ hỗ trợ cung cấp những nguồn kiến thức, tài nguyên và nhân lực giúp dự án đạt được mục tiêu và những cột mốc mới trong tương lai.\n\nVới hơn 15 năm kinh nghiệm trong ngành IT, cùng với 6 năm kinh nghiệm trong lĩnh vực Khởi nghiệp An ninh mạng, Fintech và AI, anh đã phục vụ nhu cầu công nghệ thông tin của nhiều thị trường, bao gồm Hoa Kỳ, Anh Quốc, Úc, Hàn Quốc, Nhật Bản và Singapore. Anh đã từng là CEO/CTO của 689Cloud (Cloud Content Security - Singapore & Việt Nam), CTO của Aiculus (Australia Startup, Artificial Intelligence API Security), CTO của Supercoder (Korean Startup, Nền tảng tìm kiếm nhân sự tiềm năng về AI và remote developers), và European NeoBank startup.\n\nHiện tại, anh đang là Founder và CEO tại DigiEx Group, hệ sinh thái nuôi dưỡng tài năng Công nghệ tại Việt Nam. Với bề dày kinh nghiệm cùng mong muốn đóng góp cộng đồng, anh luôn sẵn sàng chia sẻ, hỗ trợ các bạn trẻ Việt nối tài cùng các chuyên gia nước ngoài để xây dựng lên các dự án có ý nghĩa.\n\nProject X tin rằng với sự đồng hành của anh Johnny Le, dự án cũng sẽ có những bước phát triển mạnh mẽ và gặt hái được nhiều thành công trong tương lai."
       }
     },
     {
@@ -751,10 +758,9 @@
       "createdTime": "2024-03-25T00:19:05.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848788/projectx/resources/recAGl757XhMC3F5N.jpeg.jpg",
-        "Title": "[Webinar] DATA SCIENCE MADE EASY - EXPLORING THE USE OF DATA SCIENCE IN THE TECH INDUSTRY AND ITS IMPACT ON OUR DAILY LIVES.",
-
-        "Topics": ["Event"],
-        "Content": "https://www.facebook.com/photo.php?fbid=405897128772429&set=pb.100080564340561.-2207520000&type=3"
+        "title": "[Webinar] DATA SCIENCE MADE EASY - EXPLORING THE USE OF DATA SCIENCE IN THE TECH INDUSTRY AND ITS IMPACT ON OUR DAILY LIVES.",
+        "topics": ["Event"],
+        "content": "Bạn nghe rất nhiều về Trí Tuệ Nhân Tạo AI, ChatGPT và những sản phẩm khác của ngành Khoa Học Dữ Liệu (Data Science) nhưng vẫn cảm thấy mơ hồ?\n\nBạn đang tò mò về xu hướng của Khoa học dữ liệu trong lĩnh vực Công nghệ, những tác động của ngành này lên cuộc sống thường ngày, hay cơ hội nào cho “newbie” của ngành?\n\nBạn muốn khám phá những bí ẩn đằng sau \"phép màu\" của Data Science?\n\nNếu bạn trả lời “CÓ\" cho cả 3 câu hỏi trên, hãy tham gia ngay buổi Webinar độc quyền của Project X: “Data Science Made Easy - Exploring The Use Of Data Science In The Tech Industry And Its Impact On Our Daily Lives” để được giải đáp thắc mắc và hiểu hơn về tính ứng dụng Data Science!\n\nThông tin webinar:\nGiờ Việt Nam: 11:00 AM (GMT+7) CN ngày 21/01/24\nGiờ EST: 11:00 PM EST T7 ngày 20/01/2024\nGiờ CST: 10:00 PM CST T7 ngày 20/01/2024\nGiờ PST: 08:00 PM PST T7 ngày 20/01/2024\nLocation: Trực tuyến qua page Project X Vietnam Tech Community"
       }
     },
     {
@@ -762,10 +768,9 @@
       "createdTime": "2024-03-25T00:17:51.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848791/projectx/resources/recJ8gJprBBo7LOcL.jpeg.jpg",
-        "Title": "NETWORKING - “BÀN ĐẠP” CHO SỰ NGHIỆP THÀNH CÔNG",
-
-        "Topics": ["Useful Resources"],
-        "Content": "https://www.facebook.com/techXVn/posts/pfbid02avRKL1EmmDnu1MLVRb2rhdbY83ZtyB1Bm7k76WHVvJhZPaEZrodj9EJWQdyMrd8bl"
+        "title": "NETWORKING - “BÀN ĐẠP” CHO SỰ NGHIỆP THÀNH CÔNG",
+        "topics": ["Useful Resources"],
+        "content": "Bên cạnh những kỹ năng chuyên môn, kỹ năng mềm và khả năng networking ngày càng trở thành một yếu tố không thể thiếu trong học tập và công việc. Xây dựng một “mạng lưới mối quan hệ” vững vàng là nền tảng giúp đỡ sự phát triển bản thân và sự nghiệp của bạn. \n\nĐó cũng chính là lí do Project X mong muốn tạo dựng một cộng đồng cho những tài năng công nghệ, nơi tụ hội không chỉ sinh viên mà còn là những chuyên gia trong ngành cùng gặp gỡ, chia sẻ kiến thức và các giá trị chung. Đến với Fellowship Program 2024, các bạn sinh viên có cơ hội mở rộng mạng lưới quan hệ của mình, kết nối không chỉ với mentor mà còn là những người “đồng chí” có chung đam mê, để từ đó trao đổi, giúp đỡ lẫn nhau. \n\nĐừng quên chỉ còn 2 NGÀY để chớp lấy cơ hội quý giá “networking” từ chương trình Fellowship Program 2024, đăng ký ngay!"
       }
     },
     {
@@ -773,10 +778,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848796/projectx/resources/recLtGaFCMdo78y5n.jpeg.png",
-        "Title": "[Mentor's Stories] LẮNG NGHE NHỮNG CHIA SẺ TỪ ANH JOSEPH NGUYEN - SENIOR SOFTWARE ENGINEER @ROBLOX ",
-
-        "Topics": ["Mentors"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/AwoQdX9SQoc5CQxbRbFuu6fNskg?from=from_copylink"
+        "title": "[Mentor's Stories] LẮNG NGHE NHỮNG CHIA SẺ TỪ ANH JOSEPH NGUYEN - SENIOR SOFTWARE ENGINEER @ROBLOX ",
+        "topics": ["Mentors"],
+        "content": "Anh Joseph Nguyễn bắt đầu hành trình trong ngành công nghệ khi theo học ngành Khoa học Máy tính và Kỹ thuật điện (Electrical Enginnering) tại trường đại học University of California - Berkeley. Sau đó, anh tiếp tục theo đuổi đam mê qua các dự án công nghệ và trở thành kỹ sư phần mềm tại Roblox. Trong đó, các thành tích nổi bật của anh bao gồm:\n- Mobile Software Engineer @Classcalc\n- Project Developer @Launchpad\n- Software Engineer @Roblox\n\nHành trình chinh phục ngành Computer Science của anh Joseph là không hề dễ dàng. Hãy cùng lắng nghe những chia sẻ của anh Joseph với Project X qua bài phỏng vấn dưới đây nhé!\n\n🌟Xin chào Joseph, cảm ơn bạn rất nhiều vì đã quyết định tham gia Summer Fellowship Program 2024 của chúng mình. Đầu tiên, bạn có thể nói về lý do tại sao bạn quyết định trở thành cố vấn của Project X không ?\n\nMình rất vui được trở thành cố vấn cho Chương trình Summer Fellowship Program 2024 sắp đến. Là một người đã từng trải qua quá trình phỏng vấn xin việc đầy thử thách với rất ít sự hướng dẫn và hiểu biết về ngành công nghệ, mình nhận ra rằng việc có một người cố vấn là vô cùng quan trọng đối với các bạn sinh viên. Bên cạnh đó, với niềm yêu thích giảng dạy và cố vấn, mình rất háo hức được đóng góp phần nào vào sứ mệnh của Project X.\n\nTrong nhiều năm, mình đã giảng dạy với những vai trò mentor khác nhau như dạy Scratch cho trẻ nhỏ, các nguyên tắc khoa học máy tính AP cho học sinh trung học và mentor cho một thực tập sinh tại một công ty công nghệ. Mỗi lần cố vấn mình đều nhận được một trải nghiệm độc đáo và đặc biệt, góp phần hơn nữa vào khả năng giảng dạy cũng như phát triển kỹ năng cá nhân. Mình hy vọng có thể tiếp tục đưa ra lời khuyên dựa trên kinh nghiệm của mình để giúp những bạn trẻ định hướng những hướng đi trong ngành tech một cách hiệu quả. Trước giờ mình vẫn chưa có cơ hội giúp đỡ cụ thể cộng đồng người Việt và mình cảm thấy Project X mang đến cho mình cơ hội đó để thực hiện mong muốn của mình.\n\n🌟Như bạn đã biết thì mentees của chúng mình đa số là sinh viên đại học. Bạn nghĩ rằng những trải nghiệm thời đi học có thể ảnh hưởng thế nào tới mục tiêu nghề nghiệp của bản thân và dẫn bạn đến vị trí hiện tại?\n\nTrải nghiệm đại học đã thay đổi đáng kể động cơ, ước mơ và mục tiêu nghề nghiệp của mình, và mình nghĩ rằng nếu không trải qua những trải nghiệm đó thì sẽ không có bản thân của ngày hôm nay. Nói một cách đơn giản, mục tiêu nghề nghiệp của mình trước khi học đại học là tìm một công việc có thể hỗ trợ gia đình. Mình đã đạt được một bước ngoặt liên quan đến mục tiêu nghề nghiệp của mình trong thời gian học đại học đó là tham gia một một chương trình hướng dẫn Computer Science cho sinh viên ở các cộng đồng chưa có cơ hội tiếp xúc một cách bài bản.\n\nCuối cùng, bạn có lời khuyên nào dành cho các bạn sinh viên Việt Nam đang ứng tuyển vào vị trí SWE không? Bạn có thể chia sẻ cách hiệu quả nhất để networking với các nhà tuyển dụng và vượt qua vòng resume screening và phỏng vấn là gì?\n\nMình cảm thấy vòng phỏng vấn ban đầu thường có thể đặt ra thách thức lớn nhất trong quá trình xin việc. Một cách tiếp cận hiệu quả để kết nối với nhà tuyển dụng là tận dụng các connection cá nhân của bạn và tích cực tham gia vào các sự kiện offline. Career Fair luôn là một lựa chọn tuyệt vời để mang đến cho bạn cơ hội gặp gỡ các nhân viên tập đoàn cũng như nhà tuyển dụng tại các công ty đang tích cực tuyển dụng sinh viên mới tốt nghiệp và thực tập sinh.\n\nSau khi tận dụng cơ hội ở các buổi Career Fair, mình đã nhận được một số cuộc phỏng vấn ngay tại sự kiện và chuẩn bị một số dự án để giới thiệu trong các cuộc phỏng vấn của mình. Những buổi Career Fair cũng mang đến cơ hội tuyệt vời để connect với những bạn trẻ có cùng chí hướng đam mê công nghệ với mình. Phát triển networking của bạn không chỉ mở ra cơ hội tiềm năng cho các công ty công nghệ hàng đầu mà còn tạo ra một cộng đồng hỗ trợ lẫn nhau trong cả học tập và sự nghiệp.\n\nVề quá trình phỏng vấn, gợi ý đầu tiên của mình là hãy thực hành nhiều câu hỏi Leetcode khác nhau (Blind75 là một nơi tuyệt vời để làm quen) và tập luyện với các chủ đề khác nhau. Đối với những người muốn ôn lại các chủ đề khoa học máy tính cụ thể, chẳng hạn như graphs hoặc dynamic programming, “Cracking The Coding Interview” là một cuốn sách tuyệt vời để bắt đầu.\n\nNgoài sự sẵn sàng về mặt kỹ thuật, các hoạt động ngoại khóa độc đáo sẽ giúp bạn nổi bật lên so với các ứng viên khác, đặc biệt là trong quá trình resume screening. Làm việc trong một dự án cá nhân, tham gia một tổ chức hoặc câu lạc bộ giúp bạn có động lực coding và xem bạn có thể giúp tạo ra tác động gì cho cộng đồng của mình thông qua công nghệ!\n\nProject X tin rằng sự chuẩn bị kĩ lưỡng cũng như tinh thần năng nổ và tham gia các hoạt động ngoại khoá là một trong những chìa khoá giúp anh Joseph thành công có được công việc mơ ước hiện tại.\n\nSau buổi welcome workshop tuần trước, Project X đã chính thức bước vào nội dung chính của chương trình Fellowship Program 2024. Các bạn hãy chuẩn bị thật nhiều năng lượng để cùng kết nối với những anh chị mentor dày dặn kinh nghiệm và thu về nhiều bí quyết cho mình nhé!"
       }
     },
     {
@@ -784,10 +788,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848797/projectx/resources/recP8cDnRSf1awlIo.jpeg.jpg",
-        "Title": "[Webinar] CAREER IN TECH -EXPLORATION",
-
-        "Topics": ["Event"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/SyMWda9sToUOejxLOFduIc14sVb?from=from_copylink"
+        "title": "[Webinar] CAREER IN TECH -EXPLORATION",
+        "topics": ["Event"],
+        "content": "Bạn đang học đại học nhưng muốn đi thực tập để có kinh nghiệm thực tiễn? Hay sắp tốt nghiệp nhưng vẫn mơ hồ về con đường sự nghiệp? Nộp đơn xin việc mãi mà không đậu vị trí nào? Nếu ở trong những trường hợp trên, hay chỉ đơn giản muốn tìm hiểu sâu hơn về định hướng công việc, Webinar này chắc chắn dành cho bạn!\n\nĐể mở đầu chuỗi sự kiện kick-off Summer Fellowship Program 2024, Project X giới thiệu Webinar \"Career in Tech - Exploration\", nhằm mục đích hỗ trợ các bạn sinh viên hiểu rõ hơn về lộ trình sự nghiệp trong ngành Công nghệ và cách phát triển kỹ năng cần thiết để giữ vị trí công việc trong thị trường đầy biến động.\n\nNhững thắc mắc như: \"Kỹ năng nào đặc biệt cần thiết khi đi xin việc?\", \"Phải chuẩn bị thế nào để tồn tại trong làn sóng lay-off?\", hay \"Cần lưu ý gì khi lựa chọn làm việc tại Start-up/Big Tech?\", và còn nhiều hơn thế nữa, tất cả đều sẽ được giải đáp trong Webinar với diễn giả là các anh chị đã có nhiều năm kinh nghiệm làm việc trong môi trường đầy tính cạnh tranh của các \"ông lớn\" trong ngành Công nghệ.\nThông tin sự kiện:\n🔸 Webinar: Career in Tech - Exploration\n🔸 Date: Saturday, December 16th 2023\n🔸 Time: 9 - 10:30 pm ET/ 8 - 9:30 pm CT/ 6 - 7:30pm PT (US time)\n🔸 Location: Online via Zoom\n👉 Đăng ký tham gia ngay tại:\nVà cùng Project X đón chờ thông tin khách mời trong các bài viết tiếp theo nhé!"
       }
     },
     {
@@ -795,10 +798,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848799/projectx/resources/recPx0ytsPJY4VI2t.jpeg.jpg",
-        "Title": "[Mentor's Stories] GIỚI THIỆU CỐ VẤN CHIẾN LƯỢC - ANH NGUYỄN XUÂN LỤC, PHÓ CHỦ TỊCH HĐQT TẬP ĐOÀN WATA",
-
-        "Topics": ["Mentors"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/VCGudsI4eok6ryxnwjCuK59jsch"
+        "title": "[Mentor's Stories] GIỚI THIỆU CỐ VẤN CHIẾN LƯỢC - ANH NGUYỄN XUÂN LỤC, PHÓ CHỦ TỊCH HĐQT TẬP ĐOÀN WATA",
+        "topics": ["Mentors"],
+        "content": "Project X xin trân trọng giới thiệu Cố vấn Chiến Lược (Executive Advisor) của Project X - Anh Nguyễn Xuân Lục, Phó Chủ tịch HĐQT Tập đoàn Wata, ứng cử viên của Giải thưởng 10 Gương mặt trẻ Việt Nam năm 2023 do Trung ương Đoàn TNCS Hồ Chí Minh tổ chức xoay quanh chủ đề \"Thanh niên khởi nghiệp\".\n\n💼 Tốt nghiệp Kỹ sư CNTT ĐH CNTT - ĐH Quốc gia TP.HCM, Thặc Sĩ QTKD Đại học Paris, anh luôn khát khao vươn lên chứng tỏ bản thân và gặt hái những thành công trong lĩnh vực kinh doanh, khởi nghiệp. Cùng với người bạn thân từ thuở nhỏ, anh đã bắt đầu từ việc đi tìm kiếm khách hàng, phân tích và tư vấn sản phẩm đến cho đến lập trình phát triển và bàn giao sản phẩm với với khách hàng.\n\nVới tinh thần lạc quan và không ngừng học hỏi, đến năm 2022, anh Lục và Tập đoàn WATA đã đạt những thành công nhất định. Tổng doanh thu WATA năm 2022 đạt 49,48 tỷ đồng. Tới nay, 70% đối tác của WATA là những trường khó tính như Mỹ, Singapore, Hàn Quốc, Úc, châu Âu, v.v. - một thành công đáng nể với các công ty phần mềm.\n\nTrải qua nhiều khó khăn khi vừa bắt đầu và kiên trì để đạt được những thành tựu như hiện nay, anh Lục đồng cảm với các bạn trẻ khi gặp khó khăn ở những ngày đầu. Đến với Project X, anh luôn mong muốn chia sẻ, hỗ trợ các bạn trẻ Việt Nam tài năng kết nối và tìm kiếm cơ hội phát triển và vươn xa.\n\n🤝 Project X tin rằng với sự đồng hành của anh Nguyễn Xuân Lục, dự án cũng sẽ có những bước phát triển mạnh mẽ và đạt được nhiều thành công trong tương lai hơn nữa.\n\nNguyễn Xuân Lục - Giám đốc điều hành Công ty CP Tập đoàn WATA - công ty cung cấp gải pháp phần mềm\nAchievements\n- Top 10 Doanh nhân trẻ khởi nghiệp xuất sắc năm 2023 do T.Ư Hội Doanh nhân trẻ Việt Nam tổ chức\n- Giải thưởng Gương mặt trẻ Việt Nam tiêu biểu 2023\n- Tổng doanh thu WATA năm 2022 đạt 49,48 tỷ đồng\n\nPersonal story\nSinh ra trong gia đình nghèo ở Nghệ An\nĐam mê công nghệ thông tin do đọc sách về khoa học viễn tưởng của bố\nRa trường làm việc cho một công ty đa quốc gia\nKhởi nghiệp Sau 7 năm\nGiai đoạn đầu phải làm nhiều việc: từ sales, chăm sóc khách hàng, nghiên cứu thị trường, nhân sự…\nPhải thức tới 4h sáng để làm việc với khách do chênh lệch múi giờ"
       }
     },
     {
@@ -806,10 +808,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848801/projectx/resources/recSzrXqX71p5NZhx.jpeg.jpg",
-        "Title": "BEHAVIOURAL INTERVIEW - ĐỂ LẠI DẤU ẤN TRONG MẮT NHÀ TUYỂN DỤNG",
-
-        "Topics": ["Job Search ", "Useful Resources"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/ZhsodE8R3o8aiqxmxyGuA32NsSg?from=from_copylink"
+        "title": "BEHAVIOURAL INTERVIEW - ĐỂ LẠI DẤU ẤN TRONG MẮT NHÀ TUYỂN DỤNG",
+        "topics": ["Job Search ", "Useful Resources"],
+        "content": "Nếu resume của bạn đã chính thức vượt qua vòng chọn lọc của ATS, thì đây chính là lúc bạn bắt đầu “suy ngẫm” để vẽ lại các câu chuyện thể hiện giá trị của bản thân đó! Trong vòng phỏng vấn này, các câu hỏi của nhà tuyển dụng sẽ tập trung đánh giá liệu tính cách và kỹ năng mềm của bạn có phù hợp với những yếu tố mà công ty đề cao hay không. Các tiêu chí có thể kể đến như liệu bạn có thể hài hòa với cấp trên và đồng nghiệp hoặc một số tình huống về công việc chuyên môn được giải quyết như thế nào.\n\n🔸 Thời gian: 10AM VNT 03/03/2024 // 10PM EST 02/03/2024\n👉 Buổi Workshop sẽ đi qua các điều cần lưu ý khi chuẩn bị cho vòng behavioural interview và đề cập một mô hình phổ biến là STAR:\nS - Situation (Tình huống)\nT - Task (Nhiệm vụ)\nA - Action (Hành động)\nR - Result (Kết quả).\nCác mentor cũng sẽ cùng đồng hành để giải đáp thắc mắc của các bạn và đặc biệt là chia sẻ kinh nghiệm cá nhân vì mỗi công ty đều có rất nhiều hình thức hỏi đáp khác nhau.\n\nHãy nhớ rằng, câu trả lời càng cụ thể và rõ ràng thì nhà tuyển dụng sẽ càng dễ dàng hiểu được con người của bạn và thấy được sự chuẩn bị của bạn! Và để biết thêm các “tips” khoe kỹ năng mềm một cách khéo léo, các bạn hãy kiểm tra email thường xuyên để nhận link tham gia buổi Workshop nhé!"
       }
     },
     {
@@ -817,10 +818,9 @@
       "createdTime": "2024-03-25T00:21:04.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848802/projectx/resources/recUafeKMR3kme7JO.jpeg.jpg",
-        "Title": "[Seminar] Product Management: Best Practices for Growth",
-
-        "Topics": ["Event"],
-        "Content": "https://www.facebook.com/photo.php?fbid=452054984156643&set=pb.100080564340561.-2207520000&type=3"
+        "title": "[Seminar] Product Management: Best Practices for Growth",
+        "topics": ["Event"],
+        "content": "Ngày mai ở TPHCM chúng mình có đồng tổ chức một event cùng với đối tác DigiEx Group tại Công viên Phần mềm Quang Trung. Như vậy là ngày mai chúng ta có tận hai event thú vị.\n\nAnh Kevin Hoang, một chuyên gia người Canada gốc Việt, đang công tác Việt Nam một thời gian và mong muốn truyền cảm hứng cho cộng đồng tech ở VN về project management. Anh có hơn một thập kỷ kinh nghiệm trong ngành công nghệ, đã từng giữ nhiều chức vụ phát triển sản phẩm cấp cao trong các công ty từ startup cho đến các tập đoàn đa quốc gia như Google.\n\nAnh Kevin gần đây đã sáng lập ra Genos Group, một công ty tư vấn chiến lược và cổ phần tư nhân có trụ sở tại Canada, với vai trò là Managing Partner. Tại đây, anh giúp các công ty khởi nghiệp (early-stage và scale-up) tìm ra quy mô và định hướng phù hợp khi lên kế hoạch xây dựng sản phẩm.\n\nNgoài vai trò của mình tại Genos, anh Kevin còn là Project Management Advisor dày dạn kinh nghiệm trong nhiều cộng đồng product và startup. Anh đã phỏng vấn và tuyển dụng hàng nghìn người trong suốt sự nghiệp của mình. Anh mong muốn giúp các đơn vị và cá nhân đạt được mục tiêu của họ, đặc biệt là các startup và các công ty đang trên đà phát triển.\n\nHãy tham gia event này cùng Project X nhé."
       }
     },
     {
@@ -828,10 +828,9 @@
       "createdTime": "2024-03-25T00:12:24.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848805/projectx/resources/recWDPNZdc8PB3wCp.jpeg.png",
-        "Title": "[Mentor's Stories] CHINH PHỤC ĐAM MÊ PHÂN TÍCH DỮ LIỆU CÙNG CHỊ NGỌC ĐINH - CHUYÊN GIA ĐẾN TỪ ATTUNE INSURANCE VÀ GOLDMAN SACHS",
-
-        "Topics": ["Mentors"],
-        "Content": "https://www.facebook.com/photo/?fbid=443920344970107&set=pb.100080564340561.-2207520000"
+        "title": "[Mentor's Stories] CHINH PHỤC ĐAM MÊ PHÂN TÍCH DỮ LIỆU CÙNG CHỊ NGỌC ĐINH - CHUYÊN GIA ĐẾN TỪ ATTUNE INSURANCE VÀ GOLDMAN SACHS",
+        "topics": ["Mentors"],
+        "content": "Tiếp nối chuỗi bài giới thiệu những mentor tài năng và tâm huyết của Fellowship Program 2024, Project X hân hạnh giới thiệu Chị Ngọc Đinh - một chuyên gia phân tích dữ liệu đầy nhiệt huyết với nhiều năm kinh nghiệm trong ngành.\n\nChị Ngọc hiện đang là chuyên gia Phân tích Dữ liệu với kinh nghiệm làm việc trong vai trò Kỹ sư Trí tuệ Kinh doanh tại Attune Insurance và Chuyên viên Cấp cao tại Goldman Sachs. Chuyên môn của chị là ứng dụng các công cụ và công nghệ phân tích nhằm khai thác dữ liệu và tối ưu hóa quy trình để mang đến những giá trị thiết thực cho doanh nghiệp.\n\nNgoài ra, chị Ngọc đã và đang đảm nhận một số vai trò sau:\nBusiness Intelligence Engineer @Attune Insurance\nSenior Analyst @Goldman Sachs\nData Scientist Intern @Alvarez & Marsal\nCorporate Finance Intern @PwC\n\nTiếp theo, hãy cùng lắng nghe những chia sẻ của chị Ngọc về hành trình chinh phục đam mê và những bí quyết thành công của mình nhé!\n\nChào chị Ngọc! Cảm ơn chị rất nhiều vì chị đã tham gia chương trình. Project X và các bạn rất mong chờ được lắng nghe những chia sẻ của chị. Trong hành trình theo đuổi đam mê về ngành Data, có dấu mốc nào đặc biệt đáng nhớ với chị?\n\n Trong suốt hành trình đó, chị có may mắn được trải qua nhiều dự án ấn tượng và gặt hái một số thành công nhất định. Một trong những dấu mốc đáng nhớ nhất là khi chị phát triển ứng dụng Zendesk dựa trên công nghệ GPT-3.5 của OpenAI để tự động tóm tắt các phiếu hỗ trợ tại Attune Insurance. Nhờ vậy, thời gian phân loại phiếu giảm 20%, giúp nâng cao hiệu quả hỗ trợ và sự hài lòng của khách hàng.\n\n Ngoài ra, chị cũng tự hào khi góp phần hiện đại hóa cơ sở hạ tầng dữ liệu của công ty bằng cách cải tiến và tối ưu hóa quy trình ETL cho kho dữ liệu cũ. Việc ứng dụng các phương pháp tiên tiến nhất và công nghệ hiện đại đã giúp tăng tốc độ xử lý dữ liệu và nâng cao độ chính xác, góp phần vào hoạt động hiệu quả của toàn bộ tổ chức.\n\n Bên cạnh đó, chị cũng có nhiều kinh nghiệm trong việc thiết kế và triển khai các báo cáo kinh doanh tự động để hỗ trợ chức năng báo cáo giao dịch, giảm thiểu rủi ro. Ngoài ra, chị còn cộng tác với đội ngũ doanh thu để thiết kế và triển khai các bảng điều khiển mục tiêu doanh thu toàn diện. Các bảng điều khiển này cung cấp những thông tin chi tiết và khả năng theo dõi theo thời gian thực về các chỉ số doanh thu cốt lõi, giúp các bên liên quan đưa ra quyết định sáng suốt và chỉ đạo hiệu quả các sáng kiến tăng trưởng kinh doanh chiến lược.\n\nTheo chị, các bạn sinh viên cần làm gì để trau dồi kiến thức và kỹ năng cần thiết cho sự nghiệp trong lĩnh vực này?\n\nChị nghĩ để bắt đầu sự nghiệp trong lĩnh vực này, các bạn sinh viên cần chú trọng vào 4 điều. Đầu tiên là kỹ năng chuyên môn, các bạn cần nắm vững các công cụ và công nghệ phân tích dữ liệu phổ biến. Thứ hai là kinh nghiệm thực tế, tham gia các dự án thực tế tại trường hoặc các cuộc thi hackathon sẽ giúp các bạn áp dụng kiến thức vào thực tế và rèn luyện kỹ năng giải quyết vấn đề và đặc biệt là nâng cao cơ hội được tuyển dụng vào các vị trí thực tập hoặc chính thức. Chúc các bạn sinh viên thành công trên con đường theo đuổi đam mê của mình nhé!\n\nProject X tin rằng với kiến thức chuyên môn cùng kinh nghiệm thực tế và nhiệt huyết của mình, chị Ngọc sẽ là một mentor tuyệt vời cho các bạn mentee trong Fellowship Program 2024!"
       }
     },
     {
@@ -839,10 +838,9 @@
       "createdTime": "2024-03-25T00:16:42.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848807/projectx/resources/recXKwXRE1WQddd7t.jpeg.png",
-        "Title": "[Mentor's Stories] NẮM BÍ QUYẾT CHINH PHỤC NHỮNG \"ÔNG LỚN CÔNG NGHỆ\" TỪ KHI CÒN LÀ SINH VIÊN CÙNG MENTOR QUANG NGUYỄN",
-
-        "Topics": ["Mentors"],
-        "Content": "https://www.facebook.com/photo/?fbid=441175025244639&set=pb.100080564340561.-2207520000"
+        "title": "[Mentor's Stories] NẮM BÍ QUYẾT CHINH PHỤC NHỮNG \"ÔNG LỚN CÔNG NGHỆ\" TỪ KHI CÒN LÀ SINH VIÊN CÙNG MENTOR QUANG NGUYỄN",
+        "topics": ["Mentors"],
+        "content": " Mang sứ mệnh tiếp sức cho thế hệ trẻ, Project X luôn nỗ lực tìm kiếm những Peer Mentor tài năng và nhiệt huyết - những ngọn đuốc dẫn dắt và truyền lửa trên hành trình chinh phục ước mơ của các bạn sinh viên.\n\nHôm nay, chúng mình vô cùng hân hạnh giới thiệu Nguyễn Nhật Quang - một Peer Mentor \"cực đỉnh\" với profile vô cùng ấn tượng:\n-  Nhận học bổng toàn phần trị giá 6.5 tỉ đồng chuyên ngành Khoa học Máy tính tại Đại học Rice - một trong những trường Đại học hàng đầu tại Hoa Kỳ\n- Nhận lời mời làm việc tại TikTok - vị trí Kỹ sư Phát triển phần mềm, sau khi tốt nghiệp Đại học\n- Từng thực tập tại Facebook (Meta) và NVIDIA vị trí Kỹ sư Phát triển phần mềm - những tập đoàn công nghệ hàng đầu thế giới\n\nVới kiến thức chuyên môn sâu rộng trong lĩnh vực Khoa học Máy tính, Nhật Quang hứa hẹn sẽ truyền cảm hứng cho các bạn đang trong quá trình chinh phục niềm đam mê Công nghệ. Hãy cùng Project X lắng nghe một vài chia sẻ của Quang về hành trình theo đuổi đam mê Công nghệ và lĩnh vực Khoa học Máy tính nhé:\n\n 1. Chào Quang, cảm ơn bạn đã lựa chọn đồng hành cùng chương trình Fellowship Program 2024 của Project X. Có lẽ không phải nói quá nhiều đến những thành tích Quang đã đạt được trong học tập và sự nghiệp. Nếu để chọn ra 1 cột mốc đáng nhớ nhất trong chuỗi các thành tích đó, bạn sẽ lựa chọn cột mốc nào? Theo bạn, cột mốc đó có tầm ảnh hưởng như nào tới bộ hồ sơ ứng tuyển vào các vị trí/ chương trình mà Quang đã từng tham gia?\n Được nhận vào thực tập vị trí kỹ sư phần mềm tại Facebook vào mùa hè năm 2022 có lẽ là một cột mốc đáng nhớ nhất trong hành trình sự nghiệp của mình. Đây là lần đầu tiên mình có cơ hội thực tập tại một tập đoàn công nghệ hàng đầu thế giới. Ở đây, mình đã gặp gỡ những người đồng nghiệp và quản lý rất giỏi, qua đó học hỏi nhiều kiến thức về lập trình phần mềm cũng như cách làm việc trong môi trường chuyên nghiệp mang quy mô toàn cầu. Nhờ có những kinh nghiệm tích lũy từ kỳ thực tập này, mình đã tự tin hơn nhiều về nền tảng kiến thức, kĩ năng của bản thân, qua đó nắm lợi thế cạnh tranh hơn trong các vòng ứng tuyển với các công ty khác sau đó.\n\n 2. Bạn có thể bật mí về cách xây dựng Resume để tạo được điểm nhấn với các nhà tuyển dụng, cũng như 1 vài mẹo để ”chinh phục” những buổi phỏng vấn khó nhằn với các ông lớn trong khối ngành Công nghệ hay không?\n Để tạo ấn tượng thật tốt với nhà tuyển dụng, mình có một số bí quyết trong việc xây dựng Resume như sau:\n- Sử dụng format chỉn chu và chuyên nghiệp. Mình thường sử dụng các format resume có sẵn ở Latex để đảm bảo bố cục khoa học và đẹp mắt.\n- Khi miêu tả kinh nghiệm làm việc, hãy sử dụng các câu mô tả ngắn gọn và súc tích. Bắt đầu mỗi câu với các động từ hành động như \"Developed\", \"Led\", \"Collaborated\", và nhấn mạnh vào các thành tựu có thể đo lường được như \"Achieved X, as measured by Y, by doing Z.\"\n- Trong resume cần bao gồm các mục chính như Education, Professional Experience, Projects, Technical Skills để giúp người đọc dễ dàng theo dõi.\n- Đảm bảo rằng không có lỗi chính tả hay lỗi cú pháp trong câu.\n Đối với phần phỏng vấn hành vi, bạn nên tìm hiểu và nghiên cứu thật kỹ về văn hóa, sản phẩm và giá trị cốt lõi của công ty. Bạn có thể trả lời các câu hỏi theo phương pháp STAR (Situation - Task - Action - Result) và lấy ví dụ là các kinh nghiệm làm việc trong resume của mình.\n Về phỏng vấn kỹ thuật, hãy ôn tập kĩ về thuật toán (algorithm) và cấu trúc dữ liệu (data structures), nắm vững những kiến thức căn bản về công nghệ, đồng thời luyện tập phỏng vấn với bạn bè hoặc tự tập phỏng vấn trước gương.\n\n 3. Bên cạnh các thành tích đáng nể trong học tập và sự nghiệp, bạn còn được nhiều người biết đến là một người rất tích cực tham gia các hoạt động hướng đến sự phát triển cộng đồng, đặc biệt là về mảng hướng nghiệp trong khối ngành Công nghệ. Bạn có thể chia sẻ thêm về trải nghiệm của bạn, vai trò của hướng nghiệp trong sự phát triển của cá nhân và cộng đồng, và có điều gì bạn mong muốn sẽ làm được cho cộng đồng trong tương lai hay không?\n Mình rất quan tâm và hứng thú đến việc phát triển cộng đồng đặc biệt là trong lĩnh vực hướng nghiệp công nghệ. Mình cùng một người bạn là nhà sáng lập nhóm TechPrep - Software & Data Internship Mentor. Mục tiêu của chúng mình là tạo một cộng đồng mà mọi người có thể thoải mái chia sẻ kinh nghiệm và cùng nhau thúc đẩy sự phát triển cho cộng đồng IT tại Việt Nam.\nBên cạnh đó, ở trường Đại học, mình hiện đang là chủ tịch của câu lạc bộ RiceApps (câu lạc bộ phát triển phần mềm ở đại học Rice). Tại đây, chúng mình tổ chức các buổi chia sẻ với mong muốn giúp đỡ các bạn sinh viên phát triển sản phẩm một cách chuyên nghiệp. Đồng thời, chúng mình cũng tích cực tổ chức các hoạt động hướng nghiệp như sửa resume, cung cấp mạng lưới referral, luyện phỏng vấn technical để hỗ trợ các bạn sinh viên khác tìm kiếm công việc thực tập ở Mỹ.\nTrong tương lai, mình hy vọng có thể lan toả niềm đam mê công nghệ tới cộng đồng Việt Nam và Mỹ, với mục tiêu trước mắt là giúp được nhiều bạn tìm được công việc yêu thích trong ngành Công nghệ. Xa hơn, mình mong có thể góp phần vào sự phát triển ngành Công nghệ tại Việt Nam, truyền cảm hứng cho các bạn trẻ trên hành trình phát triển sự nghiệp, và đưa các nhân tài Việt Nam vươn tới thế giới.\n\n Bật mí với các bạn, Nhật Quang sẽ là một trong những khách mời đặc biệt của buổi Resume Workshop sắp tới, vậy nên đừng bỏ lỡ cơ hội được lắng nghe những chia sẻ hữu ích từ Quang nhé!"
       }
     },
     {
@@ -850,10 +848,9 @@
       "createdTime": "2024-03-25T00:16:18.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848809/projectx/resources/recXQf3qTYKYmZXw0.jpeg.png",
-        "Title": "[Mentor's Stories] ANH PETER VÕ - KHI CHƯA CÓ NHIỀU KINH NGHIỆM, CHỦ ĐỘNG HỌC HỎI LÀ MỘT CHÌA KHOÁ ĐỂ THÀNH CÔNG",
-
-        "Topics": ["Mentors"],
-        "Content": "https://www.facebook.com/photo/?fbid=441893348506140&set=pb.100080564340561.-2207520000"
+        "title": "[Mentor's Stories] ANH PETER VÕ - KHI CHƯA CÓ NHIỀU KINH NGHIỆM, CHỦ ĐỘNG HỌC HỎI LÀ MỘT CHÌA KHOÁ ĐỂ THÀNH CÔNG",
+        "topics": ["Mentors"],
+        "content": "Tiếp tục với series giới thiệu mentor của Summer Fellowship Program năm nay, Project X sẽ có một cuộc trò chuyện nho nhỏ cùng anh Peter Võ. Anh hiện là Head of Business Development & Partnership ở The Parentinc.\n\nHãy cùng Project X chúng mình tìm hiểu thêm về trải nghiệm của anh Peter Võ qua cuộc trò chuyện ngày hôm nay nhé! Tuy nhiên, trước khi đi vào những lời chia sẻ vô cùng sâu sắc và hữu ích, hãy cùng Project X đi qua những vai trò mà anh Peter Võ đã và đang đảm nhận:\n\nHead of Business Development & Partnership @ The Parentinc\nFreelance Lecturer @ Greenwich University\nSenior Business Development Manager @ Tiki Corporation\nBusiness Development Manager @ freeC Asia\nBusiness Development Manager @ OYO Vietnam\n\nChào anh, Project X rất vui khi có anh đồng hành cùng chương trình năm nay. Có thể thấy anh đã có nhiều kinh nghiệm làm việc ở vai trò Business Development (BD) ở nhiều công ty khác nhau và hiện tại là Head of BD & Partnership. Trong thời gian dài phát triển sự nghiệp của mình, bài học đáng nhớ nhất với anh là gì?\n\n Lời nói đầu tiên, anh cảm ơn team Project X đã kết nối và cho anh cơ hội đồng hành cùng Project X và các bạn sinh viên lần này. Trong hơn 12 năm kinh nghiệm trong lĩnh vực Business Development (BD) thì bài học đáng nhớ nhất của anh là là khả năng hiểu và xây dựng mối quan hệ đối tác bền vững. Trong vai trò của mình, việc xây dựng và duy trì mối quan hệ đối tác chiến lược là chìa khóa để mở cánh cửa cho cơ hội mới và thúc đẩy tăng trưởng doanh số cho doanh nghiệp.\n\nViệc nộp đơn thực tập hoặc xin việc với các bạn sinh viên chưa có nhiều kinh nghiệm đôi khi là một khó khăn lớn. Theo anh, yếu tố nào sẽ giúp các bạn chưa có nhiều kinh nghiệm thực tập có thể nộp đơn thành công cho những công việc đầu tiên?\n\nAnh sẽ trả lời trên dựa theo kinh nghiệm đúc kết của bản thân. Theo anh các bạn nên tập trung vào 3 yếu tố sau:\n\nChủ Động và Học Hỏi: Cho thấy sự chủ động và khả năng học hỏi là một ưu điểm lớn. Bạn có thể mô tả các dự án, hoạt động ngoại khoác, hoặc các khóa học tự học để chứng minh sự sẵn sàng học hỏi.\n\nKỹ Năng Mềm: Đặc biệt là kỹ năng giao tiếp, làm việc nhóm, quản lý thời gian và giải quyết vấn đề. Những kỹ năng này thường được ưu tiên cao trong môi trường làm việc.\n\nSự Chuẩn Bị Tốt: Nghiên cứu về công ty và vị trí bạn đang nộp đơn là quan trọng. Cho thấy bạn hiểu rõ về công ty, sản phẩm/dịch vụ của họ, và tại sao bạn muốn làm việc ở đó.\n\nĐiểm đặc biệt của Project X là nhấn mạnh vào kỹ năng networking và mentorship cho các bạn sinh viên chưa có nhiều kinh nghiệm. Anh có thể đưa ra lời khuyên về cách các bạn có thể tận dụng tối đa mối quan hệ với mentor này không ạ?\n\nMột số lời khuyên anh đưa ra giúp các bạn tận dụng tối đa mối quan hệ với mentor sẽ là:\n\nChuẩn bị kỹ càng: Trước khi gặp mentor, các bạn hãy nghiên cứu về lĩnh vực hoặc dự án mà mentor đang tham gia. “Bài tập về nhà\" này có thể giúp các bạn có cái nhìn sâu sắc hơn về công việc của họ và thể hiện sự quan tâm của bạn đến công việc. Đặt ra một số mục tiêu hoặc câu hỏi cụ thể mà bạn muốn thảo luận với mentor.\nSự chuẩn bị kỹ càng này giúp bạn tận dụng thời gian gặp mentor một cách hiệu quả.\nLắng nghe chủ động: Khi gặp mentor, hãy tập trung lắng nghe và hỏi những câu hỏi chi tiết thay vì đặt ra những câu hỏi chung chung mà bạn có thể tự tìm hiểu trên các nền tảng khác dễ dàng. Điều này giúp bạn hiểu rõ hơn và tạo ra một mối quan hệ tích cực với mentor của mình.\n\nGhi chép và áp dụng kiến thức: Ghi chép những điểm quan trọng từ cuộc gặp và áp dụng chúng trong công việc hoặc dự án của bạn. Điều này không chỉ là cách để tận dụng thông tin mà còn cho thấy mong muốn học hỏi và sự phát triển lâu dài của bản thân bạn.\n\nLời cuối cùng, anh chúc các bạn trẻ năm nay thông qua chương trình Summer Fellowship Program của Project X có thể bước đầu tìm hiểu và xác lập mục tiêu sự nghiệp của mình. Anh rất hào hứng được làm việc và đồng hành cùng các bạn mentee Project X trên chặng đường phía trước."
       }
     },
     {
@@ -861,10 +858,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848811/projectx/resources/reccJkdAXynfmc2gc.jpeg.png",
-        "Title": "[Mentor's Stories] \nANH THẮNG NGUYỄN VÀ HÀNH TRÌNH XÂY DỰNG \"TINH THẦN THÉP\"",
-
-        "Topics": ["Mentors"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/PFdfdshXTopsdjxn05eu9wtfsGc"
+        "title": "[Mentor's Stories] \nANH THẮNG NGUYỄN VÀ HÀNH TRÌNH XÂY DỰNG \"TINH THẦN THÉP\"",
+        "topics": ["Mentors"],
+        "content": "Mở đầu chuỗi giới thiệu mentor sẽ đồng hành cùng chương trình Fellowship của Project X năm nay chính là anh Thắng Nguyễn. Từ những năm học tại Knox College, anh luôn nỗ lực tìm kiếm và giành được cơ hội thực tập ở các công ty khác nhau. Nhờ sự quyết tâm và không ngại tiếp xúc với nhiều lĩnh vực mới, anh đã trở thành Software Engineer tại Meta ngay sau khi tốt nghiệp năm ngoái. Một số thành tích nổi bật của anh có thể kể đến như:\n- Software Engineer tại Meta\n- Field of Interest: Front-end, Full-stack Web Development, Cloud Computing\n- Software Engineer Intern tại Tesla\n- Software Engineer Intern tại VidMob\n- Software Engineer tại Vietnam Tech Society\n- Front-end Web Developer Intern tại SaveMoney Corporation\nChắc hẳn các bạn đang vô cùng tò mò về anh Thắng cũng như vai trò của anh trong chương trình sắp tới, vì vậy hãy cùng xem những chia sẻ của anh với Project X ngay nhé!\n\n🔎 Anh có thể chia sẻ về lí do anh mong muốn trở thành mentor của Project X và giúp đỡ các bạn sinh viên Việt Nam không ạ?\n“Anh thấy mình may mắn khi được thử sức ở rất nhiều công ty, mỗi công ty giúp anh trải nghiệm công việc của Software Engineer theo mỗi cách khác nhau. Trong suốt thời gian thực tập và làm việc vừa qua, anh đã nhận được rất nhiều sự hỗ trợ và học hỏi thêm nhiều điều mới mẻ từ các anh chị đi trước. Anh biết kinh nghiệm thực tập đóng vai trò vô cùng quan trọng đối với các bạn sinh viên, và anh mong muốn có thể đem lại điều gì đó cho cộng đồng người Việt thông qua Project X. Anh mong là có thể đưa ra những lời khuyên về mặt tinh thần khi đang trong quá trình apply bởi vì đã có rất nhiều resources nói về các cách chuẩn bị interview cũng như làm đẹp resume nhưng anh nghĩ tinh thần cũng đóng 1 vai trò vô cùng quan trọng trong quá trình apply.”\n\n🔎 Anh cảm thấy những yếu tố nào đóng vai trò quan trọng khi nộp đơn xin việc trong thị trường đầy cạnh tranh hiện nay ạ?\n\"Như đã đề cập ở trên, tinh thần là một trong những yếu tố quyết định trong quá trình apply bởi vì quá trình xin việc ở Mỹ là một giai đoạn khắc nghiệt cho rất nhiều bạn và có một tinh thần tốt sẽ giúp các em vượt qua giai đoạn này. Bên cạnh đó, đối với bất kì công ty nào kể cả Meta, anh nghĩ các bạn sinh viên cần chú ý về hai điều. Một là, cần tập trung vào 1 mục đích duy nhất, xin được việc ở Mỹ, và dồn hết tâm huyết vào mục tiêu đó. Hai là, đừng quá đặt nặng việc thất bại, thay vào đó hãy rút ra những bài học từ những thất bại và move on.\"\nProject X tin rằng những bài học và kinh nghiệm về giữ vững tinh thần mà anh Thắng đem lại sẽ giúp các bạn có thêm tự tin chuẩn bị cho hành trình tìm việc không hề dễ dàng phía trước. Các bạn hãy mau nhanh tay đăng ký để có cơ hội trò chuyện thêm với các mentor tận tâm của Project X nhé!"
       }
     },
     {
@@ -872,10 +868,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848812/projectx/resources/recfhg0TEDUjsNFV4.jpeg.jpg",
-        "Title": "Lợi ích của internship từ sớm",
-
-        "Topics": ["Job Search ", "Useful Resources"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/FBmcdbJMKoMP34xPzY2ucDFDs3c?from=from_copylink"
+        "title": "Lợi ích của internship từ sớm",
+        "topics": ["Job Search ", "Useful Resources"],
+        "content": "Sinh viên mới ra trường nhưng đã có kinh nghiệm thực chiến? Chuyện nghe vô lý này giờ chẳng còn mới bởi điển hình của các bạn Gen Z là năng động, nên luôn \"cồn cào\" kiếm lấy cho mình cơ hội để vẫy vùng, thử sức và tích lũy kinh nghiệm ngay từ những năm đầu đại học. Vậy việc thực tập từ sớm có lợi ích như thế nào đối với các bạn sinh viên?\n1. Khám phá bản thân - Định hướng sự nghiệp\n2. Đi thực tập đồng nghĩa với việc các bạn sinh viên được va chạm và cọ xát với những vấn đề thực tế, có cơ hội áp dụng kiến thức được học trên sách vở để giải bài toán ngoài đời thực. Cùng với đó, các bạn sinh viên cũng được thử và trải nghiệm nhiều các dạng công việc và vị trí khác nhau, giúp khai quật tiềm năng của bản thân và tìm ra loại công việc phù hợp nhất với bản thân.\n3. Xây dựng CV/Resume\n\nViệc thực tập sớm được coi là vô cùng quan trọng và là một cách để bạn có thể xây dựng Hồ sơ của bản thân tốt hơn. Thể hiện được kinh nghiệm làm việc thực tiễn, cùng tinh thần nhiệt huyết, \"dám nghĩ - dám làm\" trong kỳ thực tập trong hồ sơ cũng là một cách giúp bạn \"ghi điểm\" tốt hơn trong mắt nhà tuyển dụng.\n1. Phát triển chuyên môn\n2. Thay vì chỉ học tập một cách bị động qua bài giảng trên trường lớp, đi thực tập cũng chính là một hình thức học tập chủ động, nơi các bạn có cơ hội quan sát, học hỏi từ những anh chị đồng nghiệp xung quanh, có cái nhìn thực tế hơn về cuộc sống khi đi làm, cũng như bồi đắp thêm kỹ năng chuyên môn và kỹ năng mềm còn thiếu.\n3. Mở rộng mạng lưới\n4. Trong suốt quá trình \"vẫy vùng\", các bạn sinh viên sẽ có thêm cho mình những mối quan hệ, cơ hội tiếp xúc và gặp gỡ với những người cùng ngành, hay có cho mình những mentors, có những mối liên kết chất lượng và giá trị cho sự nghiệp trong tương lai.\n\nVà còn vô vàn những bài học vô cùng giá trị bạn sẽ nhận được trong quá trình thực tập mà không ai có thể nói trước cho bạn.\nChỉ còn VÀI SUẤT đăng ký bổ sung để tham gia chương trình Fellowship Program 2024 trước khi chính thức đóng đơn. Bạn hãy nhanh tay đăng ký để được tự trải nghiệm những suất thực tập tại các công ty công nghệ hàng đầu nhé! "
       }
     },
     {
@@ -883,10 +878,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848814/projectx/resources/recjlAOxab6wS35CG.jpeg.png",
-        "Title": "[Mentor's Stories] CHỊ NGÂN LÊ - KHÁM PHÁ BẢN THÂN TỪ VIỆC CHUYỂN NGÀNH",
-
-        "Topics": ["Mentors"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/MNopdtmqWok5ruxwrRjutOSHs5f?from=from_copylink"
+        "title": "[Mentor's Stories] CHỊ NGÂN LÊ - KHÁM PHÁ BẢN THÂN TỪ VIỆC CHUYỂN NGÀNH",
+        "topics": ["Mentors"],
+        "content": "Dù có xuất phát điểm và trải nghiệm khác nhau, các mentor của Project X đều có một điểm chung - mong muốn giúp các bạn xây dựng lòng tự tin và phát triển những kỹ năng cần thiết để thành công. Đó chính là chia sẻ của chị Nina Lê, mentor đã chuyển công việc từ marketing sang công nghệ ở tuổi 24 và hiểu rõ những thách thức cũng như cơ hội mà ngành này mang lại. Đối mặt với áp lực và sự so sánh, chị đã vượt qua và đạt được những thành tích nổi bật như:\n- Software Engineer @ LinkedIn\n- Software Engineer @ Capital One\n- Sở hữu kênh YouTube và TikTok Coding With Nina\n- DSC Lead @ Google Developers Group\nHành trình của chị Ngân không hề dễ dàng, nhưng chị luôn hướng đến sự học hỏi và phát triển bản thân, đặc biệt là thông qua vai trò mentor tại chương trình Fellowship sắp tới. Những giá trị và bài học mà chị Ngân có thể đem đến cho các mentee đều được thể hiện rất rõ trong những chia sẻ cùng Project X ngay sau đây!\n\nChào chị Ngân, chị có thể chia sẻ về lý do và dự định cá nhân khi trở thành mentor của Project X không ạ?\nLý do khiến chị quyết định trở thành mentor của Project X chính là mong muốn dùng kinh nghiệm của mình để hỗ trợ và khích lệ các bạn trẻ, đặc biệt là các bạn nữ, xây dựng lòng tự tin và phát triển những kỹ năng cần thiết để thành công. Với những mối quan hệ mentorship sắp tới, mục tiêu của chị là: Hỗ trợ và Phát triển Kỹ năng, Chia sẻ Kinh nghiệm và Hướng dẫn, Khuyến khích Sự Đa dạng trong Tech, Xây dựng Mạng lưới Hỗ trợ, Phản hồi và Học hỏi Liên tục.\n\nTrong quá trình nộp đơn xin việc, chị thường lấy gì làm nguồn động lực ạ?\nBài học lớn mà chị rút ra là việc hiểu biết và khai thác điểm mạnh của bản thân là yếu tố quan trọng để đạt được thành công. Ví dụ, khi chị chuyển ngành, dù kỹ năng coding của chị chưa thực sự vững vàng so với bạn bè, nhưng chị nhận ra rằng điểm mạnh của mình nằm ở kỹ năng lãnh đạo. Chị đã tận dụng điều này để trở thành trưởng nhóm của Developer Student Club và điều này đã giúp hồ sơ của chị nổi bật hơn. Chúng ta không nên chỉ so sánh mình với người khác, bởi vì mỗi người đều có con đường và điểm mạnh riêng biệt. Điều quan trọng là phải nhận ra và phát huy những điểm mạnh đó trong bản thân mình.\n\nMột trong nỗi lo lớn nhất của các bạn SWE là vòng technical interview. Chị đã luyện tập cho vòng này như thế nào và chị có lời khuyên gì cho các bạn sinh viên không ạ?\nChị đã tập trung rất nhiều vào việc luyện thuật toán qua LeetCode, điều này giúp chị cải thiện kỹ năng giải quyết vấn đề và quen với dạng câu hỏi thường gặp. Ngoài ra, cách bạn trình bày và giải thích quá trình suy nghĩ của mình bằng tiếng Anh cũng rất cần thiết. Vậy nên việc thực hành mock interview sẽ giúp bạn quen với áp lực và cách truyền đạt ý tưởng một cách rõ ràng dưới áp lực.\nChị cũng muốn nhấn mạnh rằng, việc không vượt qua phỏng vấn không có nghĩa là bạn không giỏi. Có rất nhiều yếu tố ảnh hưởng đến kết quả, và mỗi lần trải qua bạn sẽ học hỏi được nhiều điều, từ đó trở nên tốt hơn. Cuối cùng, hãy nhớ rằng quá trình này cần thời gian và sự kiên nhẫn. Hãy tiếp tục luyện tập, học hỏi từ mỗi kinh nghiệm, và bạn sẽ thấy sự tiến bộ rõ rệt.\n\nProject X tin rằng, chính nhờ luôn kiên trì trong chặng đường khai thác và trải nghiệm của mình, chị Ngân chắc chắn sẽ có thể giúp rất nhiều hoài bão của các bạn trẻ trong lĩnh vực công nghệ trở thành hiện thực. Chỉ còn một vài ngày nữa đơn đăng ký sẽ chính thức đóng lại, các bạn hãy chuẩn bị thật nhiều năng lượng để có thêm cơ hội cũng như thử thách nộp đơn xin việc cùng với các mentor của Project X nhé!"
       }
     },
     {
@@ -894,10 +888,9 @@
       "createdTime": "2024-03-25T00:10:50.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848815/projectx/resources/reckMSmN7ngeY8mUP.jpeg.jpg",
-        "Title": "[Workshop] TECHNICAL WORKSHOP - Chinh Phục Mọi Câu Hỏi Chuyên Môn Hóc Búa",
-
-        "Topics": ["Event"],
-        "Content": "https://www.facebook.com/photo.php?fbid=449401751088633&set=pb.100080564340561.-2207520000&type=3"
+        "title": "[Workshop] TECHNICAL WORKSHOP - Chinh Phục Mọi Câu Hỏi Chuyên Môn Hóc Búa",
+        "topics": ["Event"],
+        "content": "Bạn đã sẵn sàng bứt phá giới hạn bản thân và chinh phục mọi thử thách trong các vòng phỏng vấn chuyên môn ?!\nĐừng lo lắng, Technical Workshop sẽ là \"bàn đạp\" và \"vũ khí bí mật\" giúp bạn vượt qua mọi rào cản và đạt được thành công!\n\nTại Technical Workshop này, bạn sẽ có cơ hội:\n- Học hỏi bí quyết \"giải mã\" các dạng câu hỏi kỹ thuật hóc búa từ các chuyên gia dày dặn kinh nghiệm.\n- Luyện tập giải quyết các tình huống thực tế thường gặp trong phỏng vấn.\n- Nâng cao khả năng tư duy logic và phân tích vấn đề một cách hiệu quả.\n- Rèn luyện kỹ năng trình bày và thuyết trình giải pháp một cách thuyết phục.\n- Tăng cường sự tự tin và bản lĩnh để chiến thắng mọi thử thách.\n\nHẹn gặp các bạn vào lúc 10AM VNT 17/03/2024. Hãy thường xuyên kiểm tra email để nhận được thông tin chi tiết về thời gian và link tham dự Workshop nhé!"
       }
     },
     {
@@ -905,10 +898,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848817/projectx/resources/reckpvFW1Iqd4tYhQ.jpeg.png",
-        "Title": "[Mentor's Stories] CHỊ JACKIE TRANG - NGƯỜI ĐỒNG HÀNH ĐÁNG TIN CẬY CỦA PROJECT X",
-
-        "Topics": ["Mentors"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/AmCydqjtmoSCYJxYyPsuv1oTsPd?from=from_copylink"
+        "title": "[Mentor's Stories] CHỊ JACKIE TRANG - NGƯỜI ĐỒNG HÀNH ĐÁNG TIN CẬY CỦA PROJECT X",
+        "topics": ["Mentors"],
+        "content": "Tốt nghiệp trường Minerva University, chị Jackie Trang đã có những năm đại học vô cùng thú vị khi được khám phá 7 đất nước khắp thế giới. Đồng thời, thông qua vị trí Software Engineer ở các công ty thuộc lĩnh vực khác nhau, chị luôn gây ấn tượng với đồng nghiệp bởi sự chuyên nghiệp và tinh thần không ngừng học hỏi. Đến với chương trình Fellowship năm nay với vai trò là một mentor, sự tích cực và tận tâm của chị sẽ tiếp sức cho các bạn sinh viên cùng đam mê công nghệ, đặc biệt là các bạn nữ trong ngành. Chị Jackie Trang đã đạt được những thành tích nổi bật như:\n- Software Engineer @ Meta\n- Former Software Engineer Intern @ Affirm\n- Former Software Engineer Intern @ Bloomberg\nHãy cùng Project X lắng nghe chị Jackie Trang chia sẻ mục tiêu trong vai trò mentor cũng như một vài tips nhỏ cho các bạn đang apply nhé!\n\n🔎 Chào chị Trang, lời đầu tiên bọn em cảm ơn chị đã đồng ý tham gia đồng hành cùng Project X năm nay. Là một mentor cho Fellowship Program, chị mong muốn sẽ đem lại điều gì cho mentee của mình và chị có yêu cầu gì đặc biệt ở các mentee không ạ?\n“Chị muốn đem lại sự chia sẻ đồng hành một cách gần gũi với mentee của mình. Chị thấy về kiến thức thì trên mạng có nhiều lắm. Nhưng quãng thời gian apply gian nan nhiều lúc thấy cô đơn nên có người đồng hành tin tưởng vào mình thì sẽ khiến mình vững tin hơn. Với mentee chỉ cần các bạn mở lòng chia sẻ những suy nghĩ của mình với chị là chị thấy trân trọng rồi.”\n\n🔎 Chị nghĩ điểm quan trọng nhất để vượt qua vòng đầu tiên (resume) là gì ạ?\n“Chị nghĩ điểm quan trọng nhất để vượt qua vòng resume là có những kinh nghiệm hoặc projects thể hiện niềm đam mê với lập trình. Nếu mình có kinh nghiệm làm việc ở các công ty công nghệ khác thì khả năng vào phỏng vấn cao hơn. Nếu mình chưa có thì nên kiếm các cơ hội khác như research hay volunteer để thể hiện sự yêu thích với ngành nghề này.”\nProject X tin rằng chị Jackie Trang còn rất nhiều câu chuyện đặc biệt trong những năm vi vu khám phá thế giới và khám phá bản thân mình để chia sẻ với các bạn mentee. Vì thế các bạn còn chần chờ gì mà không đăng ký để đồng hành cùng chị trong hành trình apply sắp tới nào!"
       }
     },
     {
@@ -916,10 +908,9 @@
       "createdTime": "2024-03-25T00:14:23.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848819/projectx/resources/reco8b9dgh1eEGdqC.jpeg.jpg",
-        "Title": "[Webinar] Transform Your Career with AI & Data Superpowers\n",
-
-        "Topics": ["Event"],
-        "Content": "https://www.facebook.com/photo/?fbid=442466368448838&set=pb.100080564340561.-2207520000"
+        "title": "[Webinar] Transform Your Career with AI & Data Superpowers\n",
+        "topics": ["Event"],
+        "content": "Project X xin được trân trọng thông báo partnership sắp tới với Edtronaut - AI Adaptive Learning Platform trong chuỗi seminar về AI và Data Science nhằm giúp các bạn trẻ khám phá những cơ hội việc làm trong những ngành thú vị này.\n\nFREE WEBINAR: TRANSFORM YOUR CAREER WITH AI & DATA SUPERPOWERS\nThời gian: 19:00-20:00 PM, thứ 5 ngày 07/03/2024\n\nMong muốn giúp những ai đang tìm kiếm cơ hội để chuyển mình và thăng tiến trong sự nghiệp trong bối cảnh thị trường đầy biến động hiện nay, webinar \"TRANSFORM YOUR CAREER WITH AI & DATA SUPERPOWERS\" sẽ đem đến cho các bạn nhiều thông tin và góc nhìn sâu sắc hơn về tiềm năng không ngừng phát triển của Data và AI trong kỷ nguyên số.\n\nVới chủ đề \"TRANSFORM YOUR CAREER WITH AI & DATA SUPERPOWERS\", các bạn có cơ hội tham gia thảo luận và được tư vấn về hành trình chinh phục được MỨC LƯƠNG NGHÌN ĐÔ từ các chuyên gia hàng đầu trong lĩnh vực:\n\n Diễn giả: Mr. Lê Duy Nghiêm (Nghiem Le)\n- Founder & CEO - DataBrain (AI Business Solutions)\n- Head of Data & Analytics - HEINEKEN\n- 18+ năm trong Marketing, Digital & Media và Data Analytics (Unilever, Kimberly Clark, FrieslandCampina, etc.)\n\n Diễn giả: Mr. Đào Thái Duy (Zwee Dao Thai Duy)\n- Former Senior Product Manager & AI Researcher - Twitter US\n- 10+ năm kinh nghiệm làm Product & Business Development trong lĩnh vực Công Nghệ (Robotics Reseach - Cornell University, Rakuten Singapore, Workato US & Singapore, Apple, Razer,...)\n\n Host: Mr. Trần Bình Ngọc (Ngoc Tran)\n- Co-founder - VYE Viet Youth Entrepreneurs. CEO Founder Rockship\n- 12+ năm trong Tech tại Singapore (AI, Machine Learning, Lowcode, Automation) đa lĩnh vực (Indeed, GIC, Honestbee, Zendesk, etc.)\n\nTrò chuyện cùng and Duy và anh Nghiêm, bạn sẽ được giải đáp các thắc mắc liên quan đến ngành dữ liệu như:\n- Bức tranh toàn cảnh về ngành Data và AI.\n- Các kỹ năng liên quan đến Data cần có để nâng cấp bản thân hơn trong thị trường lao động.\n- Lộ trình sự nghiệp, các định hướng và vị trí trong ngành dữ liệu và vai trò của mỗi vị trí trong bức tranh tổng thể của ngành"
       }
     },
     {
@@ -927,10 +918,9 @@
       "createdTime": "2024-03-24T23:47:29.000Z",
       "fields": {
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712848821/projectx/resources/recoTjJXAPHCDTh2T.jpeg.png",
-        "Title": "[Mentor's Stories] CHỊ HALEY GIANG - TÌM RA SỰ KẾT NỐI CỦA BẢN THÂN VỚI CÔNG VIỆC",
-
-        "Topics": ["Mentors"],
-        "Content": "https://projectxvietnam.larksuite.com/docx/IaixdN6DdoxfM4xntB0ufLnTsQc?from=from_copylink"
+        "title": "[Mentor's Stories] CHỊ HALEY GIANG - TÌM RA SỰ KẾT NỐI CỦA BẢN THÂN VỚI CÔNG VIỆC",
+        "topics": ["Mentors"],
+        "content": "Project X luôn tự hào về đội ngũ mentor, không chỉ đơn giản vì những thành tựu họ đạt được, mà hơn hết là sự tận tâm với nghề và mong muốn cống hiến cho cộng đồng của họ. Chị Haley Giang cũng không là ngoại lệ, và chị đã sẵn sàng trở thành người sát cánh đáng tin cậy cùng các bạn mentee của chương trình Fellowship năm nay. Hiện tại, chị đã có hơn một năm kinh nghiệm làm việc ở vị trí Software Engineer của Microsoft. Trước khi đến với Microsoft, chị cũng đã có cơ hội thử sức ở nhiều vai trò như:\n- Software Development Engineer Intern @ Amazon\n- Product Manager @ Vietnam Tech Society\n- Software Engineer Intern @ Computer Vision Vietnam Technologies (CVS)\n- Deep Learning Intern @ FPT.AI\n- Web Developer @ FPT\n\nHãy cùng Project X tìm hiểu về những dấu ấn quan trọng và kinh nghiệm chị đã tích lũy được trong suốt chặng đường qua nhé!\n\nCó lẽ tụi em không cần phải nói quá nhiều về những thành tích của chị trong ngành, vậy liệu trải nghiệm nào đối với chị là đặc biệt nhất?\nNếu phải chọn, mình nghĩ dấu mốc đặc biệt nhất sẽ là kì thực tập mùa hè sau năm 2 đại học tại Amazon của mình. Đây là một cơ hội quan trọng vì đây là lần đầu tiên mình được thực tập cho một công ty lớn tại Mỹ khi mới chân ướt chân ráo xong năm 2 với gần như không có kinh nghiệm gì. Mình được làm việc với rất nhiều người giỏi trong ngành và được họ hướng dẫn từ những thứ nhỏ nhất như là cách thiết kế API, UI/UX và cấu trúc cơ sở dữ liệu đến hiện thực hóa ý tưởng trên giấy bằng code và thuyết trình sản phẩm. Mình có cơ hội khám phá văn hóa công ty để nhận ra những gì mình thích và không thích ở môi trường làm việc và nhà tuyển dụng tương lai của mình. Hơn thế, mình được làm quen với các bạn thực tập sinh khác và dành mùa hè khám phá thành phố Seattle, Washington. Điều đó đã giúp mình quyết định đây là nơi mình muốn sinh sống và làm việc sau khi tốt nghiệp.\n\nChị có thể bật mí 1 vài mẹo để “chinh phục” những buổi phỏng vấn khó nhằn với các ông lớn trong khối ngành Công nghệ, khi những đối thủ của chị đều là những bạn rất giỏi hay không?\nMột số lời khuyên mà mình có là:\n- Luôn chuẩn bị kĩ càng, thậm chí tới mức thừa cũng không sao. Nghiên cứu công ty và các sản phẩm, tầm nhìn và văn hóa của họ. Tìm hiểu về người phỏng vấn của bạn và team của họ nếu bạn biết họ là ai. Cho các nhà tuyển dụng thấy rằng bạn đam mê sản phẩm của họ và bạn thực sự muốn làm việc ở đó. Nhớ mang theo các câu hỏi có chiều sâu đến cuộc phỏng vấn nữa.\n- Thực hiện các cuộc phỏng vấn thử với bạn bè hoặc những người trong ngành. Bạn càng thấy thoải mái trong môi trường phỏng vấn thì bạn sẽ càng làm tốt hơn.\n- Cuối cùng nhưng không kém phần quan trọng, hãy là chính mình. Bạn muốn được tuyển dụng vào một nhóm và công ty phù hợp với mình vì bạn sẽ dành nhiều thời gian ở đây. Vì vậy hãy cho họ thấy phiên bản tốt nhất của bạn, là chính mình và mọi thứ sẽ diễn ra theo chiều hướng tốt đẹp.\n\nCó thể thấy, chính con người thật đầy tài năng và nhiệt huyết của chị Haley Giang đã biến mọi hành trình học tập, trải nghiệm, và làm việc trở nên đáng nhớ và ấn tượng. Project X tin rằng chị chắc chắn sẽ hoàn thành xuất sắc vai trò tiếp sức cho các bạn mentee đó!"
       }
     }
   ]
