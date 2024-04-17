@@ -351,6 +351,46 @@
   ],
   "core-team": [
     {
+      "id": "recrdaPhwMM9nmn8C",
+      "createdTime": "2024-03-24T23:03:24.000Z",
+      "fields": {
+        "title": "Co-founder/Advisor",
+        "linkedIn": "https://www.linkedin.com/in/kellytranha/",
+        "name": "Kelly Tran ",
+        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849599/projectx/core-team/Kelly_Tran.jpeg.jpg"
+      }
+    },
+    {
+      "id": "recu8j90EPS6HoMHg",
+      "createdTime": "2024-03-24T23:03:24.000Z",
+      "fields": {
+        "title": "Manager/Advisor",
+        "linkedIn": "https://www.linkedin.com/in/peminguyen/",
+        "name": "Truong An Pemi Nguyen ",
+        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849600/projectx/core-team/Truong_An_Pemi_Nguyen.jpeg.jpg"
+      }
+    },
+    {
+      "id": "recrA7dDhw9iQr1z0",
+      "createdTime": "2024-03-24T23:03:24.000Z",
+      "fields": {
+        "title": "President",
+        "linkedIn": "https://www.linkedin.com/in/nhittdang",
+        "name": "Nhi Dang ",
+        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849598/projectx/core-team/Nhi_Dang.jpeg.jpg"
+      }
+    },
+    {
+      "id": "recAl0eSeuGVcbMfo",
+      "createdTime": "2024-03-24T23:03:24.000Z",
+      "fields": {
+        "title": "President",
+        "linkedIn": "https://www.linkedin.com/in/tuan-kevin-le-9809411b8/",
+        "name": "Tuan (Kevin) Le",
+        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849593/projectx/core-team/Tuan_Kevin_Le.jpeg.jpg"
+      }
+    },
+    {
       "id": "rec1YhXdteOabCNwO",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
@@ -368,16 +408,6 @@
         "linkedIn": "https://www.linkedin.com/in/lanvymai/",
         "name": "Vy Mai",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849589/projectx/core-team/Vy_Mai.jpeg.jpg"
-      }
-    },
-    {
-      "id": "recAl0eSeuGVcbMfo",
-      "createdTime": "2024-03-24T23:03:24.000Z",
-      "fields": {
-        "title": "President",
-        "linkedIn": "https://www.linkedin.com/in/tuan-kevin-le-9809411b8/",
-        "name": "Tuan (Kevin) Le",
-        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849593/projectx/core-team/Tuan_Kevin_Le.jpeg.jpg"
       }
     },
     {
@@ -410,46 +440,6 @@
       }
     },
     {
-      "id": "receQPCZGe7Kk8Qdp",
-      "createdTime": "2024-03-24T23:03:24.000Z",
-      "fields": {
-        "title": "Head of Tech Team ",
-        "linkedIn": "https://www.linkedin.com/in/tuannguyen-TN/",
-        "name": "Tuan Nguyen",
-        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849597/projectx/core-team/Tuan_Nguyen.jpeg.jpg"
-      }
-    },
-    {
-      "id": "recrA7dDhw9iQr1z0",
-      "createdTime": "2024-03-24T23:03:24.000Z",
-      "fields": {
-        "title": "President",
-        "linkedIn": "https://www.linkedin.com/in/nhittdang",
-        "name": "Nhi Dang ",
-        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849598/projectx/core-team/Nhi_Dang.jpeg.jpg"
-      }
-    },
-    {
-      "id": "recrdaPhwMM9nmn8C",
-      "createdTime": "2024-03-24T23:03:24.000Z",
-      "fields": {
-        "title": "Co-founder/Advisor",
-        "linkedIn": "https://www.linkedin.com/in/kellytranha/",
-        "name": "Kelly Tran ",
-        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849599/projectx/core-team/Kelly_Tran.jpeg.jpg"
-      }
-    },
-    {
-      "id": "recu8j90EPS6HoMHg",
-      "createdTime": "2024-03-24T23:03:24.000Z",
-      "fields": {
-        "title": "Manager/Advisor",
-        "linkedIn": "https://www.linkedin.com/in/peminguyen/",
-        "name": "Truong An Pemi Nguyen ",
-        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849600/projectx/core-team/Truong_An_Pemi_Nguyen.jpeg.jpg"
-      }
-    },
-    {
       "id": "recywAre8YaOUcvWy",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
@@ -457,6 +447,16 @@
         "linkedIn": "https://www.linkedin.com/in/longnguyenbase/",
         "name": "Long Nguyen",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849603/projectx/core-team/Long_Nguyen.jpeg.png"
+      }
+    },
+    {
+      "id": "receQPCZGe7Kk8Qdp",
+      "createdTime": "2024-03-24T23:03:24.000Z",
+      "fields": {
+        "title": "Head of Tech Team ",
+        "linkedIn": "https://www.linkedin.com/in/tuannguyen-TN/",
+        "name": "Tuan Nguyen",
+        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849597/projectx/core-team/Tuan_Nguyen.jpeg.jpg"
       }
     }
   ],
