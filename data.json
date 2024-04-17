@@ -401,6 +401,25 @@
       }
     },
     {
+      "id": "recUqdluqIRogWLB3",
+      "createdTime": "2024-03-24T23:03:24.000Z",
+      "fields": {
+        "title": "Head of Marketing and Design",
+        "name": "Linh Nguyen",
+        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849596/projectx/core-team/Linh_Nguyen.jpeg.jpg"
+      }
+    },
+    {
+      "id": "recL4IwSCNyfBiJxu",
+      "createdTime": "2024-03-24T23:03:24.000Z",
+      "fields": {
+        "title": "Head of Mentorship & Operation",
+        "linkedIn": "https://www.linkedin.com/in/nguyenhanhnguyen",
+        "name": "Nguyen Nguyen",
+        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849595/projectx/core-team/Nguyen_Nguyen.jpeg.jpg"
+      }
+    },
+    {
       "id": "rec8EgJELfJ6DeegE",
       "createdTime": "2024-03-24T23:03:24.000Z",
       "fields": {
@@ -418,25 +437,6 @@
         "linkedIn": "https://www.linkedin.com/in/tony-nguyen-99404a237/",
         "name": "Thien (Tony) Nguyen",
         "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849594/projectx/core-team/Thien_Tony_Nguyen.jpeg.jpg"
-      }
-    },
-    {
-      "id": "recL4IwSCNyfBiJxu",
-      "createdTime": "2024-03-24T23:03:24.000Z",
-      "fields": {
-        "title": "Head of Mentorship & Operation",
-        "linkedIn": "https://www.linkedin.com/in/nguyenhanhnguyen",
-        "name": "Nguyen Nguyen",
-        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849595/projectx/core-team/Nguyen_Nguyen.jpeg.jpg"
-      }
-    },
-    {
-      "id": "recUqdluqIRogWLB3",
-      "createdTime": "2024-03-24T23:03:24.000Z",
-      "fields": {
-        "title": "Head of Marketing and Design",
-        "name": "Linh Nguyen",
-        "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712849596/projectx/core-team/Linh_Nguyen.jpeg.jpg"
       }
     },
     {
